@@ -1,6 +1,10 @@
 digraph  G {
 	label = "SS13 Codebases Circa Mid-2019"
 	labelloc="t"
+
+	// info boxes
+	"Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand." [shape=rectangle]
+	
 	"SS13 (Pre Open)" -> "Source Leak (OpenSS13)"
 	"SS13 (Pre Open)" -> "Goonstation"
 	"Goonstation" -> "Revision 4407 (r4407)"
@@ -17,8 +21,13 @@ digraph  G {
 	"/tg/Station (GPL)" -> "Archangel"
 	"/tg/Station (GPL)" -> "FacePunch"
 	"FacePunch" -> "Corporate Mercenaries"
-	"Old YogStation" -> "YogStation" [color=red]
-	"Old HippieStation" -> "HippieStation" [color=red]
+	"Old YogStation" -> "YogStation"
+	"Old HippieStation" -> "HippieStation"
+	"BayStation (GPL)" -> "/vg/Station"
+	"BayStation (GPL)" -> "Paradise"
+	"BayStation (GPL)" -> "Tau Ceti"
+	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
+	"Paradise" -> "Persistence SS13 (Old)"
 	"/tg/Station (AGPL)" -> "YogStation"
 	"/tg/Station (AGPL)" -> "Fallout 13"
 	"/tg/Station (AGPL)" -> "BeeStation"
@@ -26,12 +35,6 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "Citadel"
 	"/tg/Station (AGPL)" -> "Toolbox Station"
 	"/tg/Station (AGPL)" -> "FulpStation"
-	"BayStation (GPL)" -> "/vg/Station"
-	"BayStation (GPL)" -> "Paradise"
-	"BayStation (GPL)" -> "Tau Ceti"
-	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
-	"Paradise" -> "Persistence SS13 (Old)"
-	"Persistence SS13 (Old)" -> "Persistence (New)" [color=red]
 	"BayStation (AGPL)" -> "Polaris"
 	"BayStation (AGPL)" -> "Colonial Marines"
 	"BayStation (AGPL)" -> "Urist McStation"
@@ -41,15 +44,13 @@ digraph  G {
 	"BayStation (AGPL)" -> "Europa Station"
 	"BayStation (AGPL)" -> "SCP-13"
 	"BayStation (AGPL)" -> "Halo: Space Station Evolved"
+	"Colonial Marines" -> "TGMC"
 	"CEV Eris" -> "InterStation-Two"
 	"InterStation-Two" -> "Lebensraum"
 	"Lebensraum" -> "Civilization 13"
-	"Colonial Marines" -> "TGMC"
 	"Polaris" -> "V.O.R.E. Station"
-	"Polaris" -> "World Server"
 	"V.O.R.E. Station" -> "Chompers"
 	"V.O.R.E. Station" -> "AEIOU"
+	"Polaris" -> "World Server"
 	"AEIOU" -> "Eclipse Station" [color=red]
-
-	"Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand." [shape=rectangle]
 }
