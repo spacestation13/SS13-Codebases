@@ -1,7 +1,7 @@
 # SS13-Codebases
 A DOT graph of the family tree of SS13
 
-![Graph](https://i.imgur.com/PzNCp5c.png)
+![Graph](https://raw.githubusercontent.com/CthulhuOnIce/SS13-Codebases/master/tree.png)
 **Compiled 9/7/2019**
 
 ## Contributing
