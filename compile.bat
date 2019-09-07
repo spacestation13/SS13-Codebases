@@ -1,0 +1,1 @@
+dot -Tpng tree.dot > tree.png
