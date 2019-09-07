@@ -11,6 +11,7 @@ digraph  G {
 	"/tg/Station (GPL)" -> "Old HippieStation"
 	"/tg/Station (GPL)" -> "Old YogStation"
 	"/tg/Station (GPL)" -> "NTStation"
+	"/tg/Station (GPL)" -> "Traitor Death Match"
 	"Old YogStation" -> "YogStation"
 	"Old HippieStation" -> "HippieStation"
 	"/tg/Station (AGPL)" -> "YogStation"
