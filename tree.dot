@@ -21,8 +21,8 @@ digraph  G {
 	"/tg/Station (GPL)" -> "Archangel"
 	"/tg/Station (GPL)" -> "FacePunch"
 	"FacePunch" -> "Corporate Mercenaries"
-	"Old YogStation" -> "YogStation"
-	"Old HippieStation" -> "HippieStation"
+	"Old YogStation" -> "YogStation" [color=red]
+	"Old HippieStation" -> "HippieStation" [color=red]
 	"BayStation (GPL)" -> "/vg/Station"
 	"BayStation (GPL)" -> "Paradise"
 	"BayStation (GPL)" -> "Tau Ceti"
