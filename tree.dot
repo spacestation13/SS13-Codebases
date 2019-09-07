@@ -4,7 +4,7 @@ digraph  G {
 
 	// info boxes
 	"Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand." [shape=rectangle]
-	
+
 	"SS13 (Pre Open)" -> "Source Leak (OpenSS13)"
 	"SS13 (Pre Open)" -> "Goonstation"
 	"Goonstation" -> "Revision 4407 (r4407)"
@@ -12,6 +12,11 @@ digraph  G {
 	"Revision 4407 (r4407)" -> "/tg/Station (GPL)"
 	"Revision 4407 (r4407)" -> "BayStation (Luna)"
 	"BayStation (Luna)" -> "Lifeweb" 
+	"BayStation (GPL)" -> "/vg/Station"
+	"BayStation (GPL)" -> "Paradise"
+	"BayStation (GPL)" -> "Tau Ceti"
+	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
+	"Paradise" -> "Persistence SS13 (Old)"
 	"/tg/Station (GPL)" -> "/tg/Station (AGPL)" [color=red]
 	"/tg/Station (GPL)" -> "BayStation (GPL)" 
 	"/tg/Station (GPL)" -> "Old HippieStation"
@@ -21,13 +26,6 @@ digraph  G {
 	"/tg/Station (GPL)" -> "Archangel"
 	"/tg/Station (GPL)" -> "FacePunch"
 	"FacePunch" -> "Corporate Mercenaries"
-	"Old YogStation" -> "YogStation" [color=red]
-	"Old HippieStation" -> "HippieStation" [color=red]
-	"BayStation (GPL)" -> "/vg/Station"
-	"BayStation (GPL)" -> "Paradise"
-	"BayStation (GPL)" -> "Tau Ceti"
-	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
-	"Paradise" -> "Persistence SS13 (Old)"
 	"/tg/Station (AGPL)" -> "YogStation"
 	"/tg/Station (AGPL)" -> "Fallout 13"
 	"/tg/Station (AGPL)" -> "BeeStation"
