@@ -10,6 +10,7 @@ digraph  G {
 	"/tg/Station (GPL)" -> "BayStation (GPL)" 
 	"/tg/Station (GPL)" -> "Old HippieStation"
 	"/tg/Station (GPL)" -> "Old YogStation"
+	"/tg/Station (GPL)" -> "NTStation"
 	"Old YogStation" -> "YogStation"
 	"Old HippieStation" -> "HippieStation"
 	"/tg/Station (AGPL)" -> "YogStation"
