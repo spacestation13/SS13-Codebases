@@ -32,6 +32,7 @@ digraph  G {
 	"BayStation (AGPL)" -> "Aurora"
 	"BayStation (AGPL)" -> "CEV Eris"
 	"BayStation (AGPL)" -> "Persistence (New)"
+	"BayStation (AGPL)" -> "Europa Station"
 	"CEV Eris" -> "InterStation-Two"
 	"InterStation-Two" -> "Lebensraum"
 	"Lebensraum" -> "Civilization 13"
