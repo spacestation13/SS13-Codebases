@@ -5,6 +5,7 @@ digraph  G {
 	// info boxes
 	"Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand." [shape=rectangle]
 
+	"BurgerStation"
 	"SS13 (Pre Open)" -> "Source Decompilation (OpenSS13)"
 	"SS13 (Pre Open)" -> "Goonstation"
 	"Source Decompilation (OpenSS13)" -> "BayStation OpenSS13"
@@ -25,6 +26,7 @@ digraph  G {
 	"BayStation (GPL)" -> "/vg/Station"
 	"BayStation (GPL)" -> "Paradise"
 	"BayStation (GPL)" -> "Tau Ceti"
+	"BayStation (GPL)" -> "Polaris"
 	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
 	"Paradise" -> "Persistence SS13 (Old)"
 	"/tg/Station (AGPL)" -> "YogStation"
@@ -34,7 +36,6 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "Citadel"
 	"/tg/Station (AGPL)" -> "Toolbox Station"
 	"/tg/Station (AGPL)" -> "FulpStation"
-	"BayStation (AGPL)" -> "Polaris"
 	"BayStation (AGPL)" -> "Colonial Marines"
 	"BayStation (AGPL)" -> "Urist McStation"
 	"BayStation (AGPL)" -> "Aurora"
