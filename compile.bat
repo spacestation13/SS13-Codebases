@@ -1,1 +1,1 @@
-dot -Tpng tree.dot > tree.png
+dot -Tsvg tree.dot > tree.svg
