@@ -38,6 +38,8 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "FulpStation"
 	"/tg/Station (AGPL)" -> "OracleStation"
 	"/tg/Station (AGPL)" -> "Sunset Station"
+	"/tg/Station (AGPL)" -> "Star Trek 13"
+	"Star Trek 13" -> "Deep Space 13" [color=red]
 	"BayStation (AGPL)" -> "Colonial Marines"
 	"BayStation (AGPL)" -> "Urist McStation"
 	"BayStation (AGPL)" -> "Polaris"
