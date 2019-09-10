@@ -27,7 +27,8 @@ digraph  G {
 	"BayStation (GPL)" -> "/vg/Station"
 	"BayStation (GPL)" -> "Paradise"
 	"BayStation (GPL)" -> "Tau Ceti"
-	"BayStation (GPL)" -> "Aurora"
+	"BayStation (GPL)" -> "Aurora (Old)"
+	"BayStation (GPL)" -> "Colonial Marines"
 	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
 	"Paradise" -> "Persistence SS13 (Old)"
 	"/tg/Station (AGPL)" -> "YogStation"
@@ -41,7 +42,6 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "Sunset Station"
 	"/tg/Station (AGPL)" -> "Star Trek 13"
 	"Star Trek 13" -> "Deep Space 13" [color=red]
-	"BayStation (AGPL)" -> "Colonial Marines"
 	"BayStation (AGPL)" -> "Urist McStation"
 	"BayStation (AGPL)" -> "Polaris"
 	"BayStation (AGPL)" -> "CEV Eris"
@@ -49,6 +49,7 @@ digraph  G {
 	"BayStation (AGPL)" -> "Europa Station"
 	"BayStation (AGPL)" -> "SCP-13"
 	"BayStation (AGPL)" -> "Halo: Space Station Evolved"
+	"BayStation (AGPL)" -> "Aurora Station"
 	"Colonial Marines" -> "TGMC"
 	"CEV Eris" -> "InterStation-Two"
 	"InterStation-Two" -> "Lebensraum"
