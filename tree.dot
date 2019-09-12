@@ -23,6 +23,7 @@ digraph  G {
 	"/tg/Station (Pre-AGPL)" -> "Traitor Death Match"
 	"/tg/Station (Pre-AGPL)" -> "Archangel"
 	"/tg/Station (Pre-AGPL)" -> "FacePunch"
+	"/tg/Station (Pre-AGPL)" -> "Old FTL13"
 	"FacePunch" -> "Corporate Mercenaries"
 	"BayStation (GPL)" -> "/vg/Station"
 	"BayStation (GPL)" -> "Paradise"
@@ -41,6 +42,7 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "OracleStation"
 	"/tg/Station (AGPL)" -> "Sunset Station"
 	"/tg/Station (AGPL)" -> "Star Trek 13"
+	"/tg/Station (AGPL)" -> "FTL13"
 	"Star Trek 13" -> "Deep Space 13" [color=red]
 	"BayStation (AGPL)" -> "Urist McStation"
 	"BayStation (AGPL)" -> "Polaris"
