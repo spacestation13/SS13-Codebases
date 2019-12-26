@@ -61,4 +61,5 @@ digraph  G {
 	"V.O.R.E. Station" -> "AEIOU"
 	"Polaris" -> "World Server"
 	"AEIOU" -> "Eclipse Station" [color=red]
+	"BeeStation" -> "NSV13"
 }
