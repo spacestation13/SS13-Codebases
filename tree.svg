@@ -7,56 +7,56 @@
 <!-- Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand. -->
 <g id="node1" class="node">
 <title>Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand.</title>
-<polygon fill="none" stroke="#000000" points="1284.3978,-684 759.4654,-684 759.4654,-648 1284.3978,-648 1284.3978,-684"/>
-<text text-anchor="middle" x="1021.9316" y="-661.8" font-family="Times,serif" font-size="14.00" fill="#000000">Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand.</text>
+<polygon fill="none" stroke="#000000" points="987.3978,-684 462.4654,-684 462.4654,-648 987.3978,-648 987.3978,-684"/>
+<text text-anchor="middle" x="724.9316" y="-661.8" font-family="Times,serif" font-size="14.00" fill="#000000">Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand.</text>
 </g>
 <!-- BurgerStation -->
 <g id="node2" class="node">
 <title>BurgerStation</title>
-<ellipse fill="none" stroke="#000000" cx="1366.9316" cy="-666" rx="65.4266" ry="18"/>
-<text text-anchor="middle" x="1366.9316" y="-661.8" font-family="Times,serif" font-size="14.00" fill="#000000">BurgerStation</text>
+<ellipse fill="none" stroke="#000000" cx="1069.9316" cy="-666" rx="65.4266" ry="18"/>
+<text text-anchor="middle" x="1069.9316" y="-661.8" font-family="Times,serif" font-size="14.00" fill="#000000">BurgerStation</text>
 </g>
 <!-- SS13 (Pre Open) -->
 <g id="node3" class="node">
 <title>SS13 (Pre Open)</title>
-<ellipse fill="none" stroke="#000000" cx="1526.9316" cy="-666" rx="76.4459" ry="18"/>
-<text text-anchor="middle" x="1526.9316" y="-661.8" font-family="Times,serif" font-size="14.00" fill="#000000">SS13 (Pre Open)</text>
+<ellipse fill="none" stroke="#000000" cx="1229.9316" cy="-666" rx="76.4459" ry="18"/>
+<text text-anchor="middle" x="1229.9316" y="-661.8" font-family="Times,serif" font-size="14.00" fill="#000000">SS13 (Pre Open)</text>
 </g>
 <!-- Source Decompilation (OpenSS13) -->
 <g id="node4" class="node">
 <title>Source Decompilation (OpenSS13)</title>
-<ellipse fill="none" stroke="#000000" cx="1414.9316" cy="-594" rx="147.6178" ry="18"/>
-<text text-anchor="middle" x="1414.9316" y="-589.8" font-family="Times,serif" font-size="14.00" fill="#000000">Source Decompilation (OpenSS13)</text>
+<ellipse fill="none" stroke="#000000" cx="1099.9316" cy="-594" rx="147.6178" ry="18"/>
+<text text-anchor="middle" x="1099.9316" y="-589.8" font-family="Times,serif" font-size="14.00" fill="#000000">Source Decompilation (OpenSS13)</text>
 </g>
 <!-- SS13 (Pre Open)&#45;&gt;Source Decompilation (OpenSS13) -->
 <g id="edge1" class="edge">
 <title>SS13 (Pre Open)-&gt;Source Decompilation (OpenSS13)</title>
-<path fill="none" stroke="#000000" d="M1500.3891,-648.937C1485.6525,-639.4635 1467.1113,-627.5441 1451.0686,-617.231"/>
-<polygon fill="#000000" stroke="#000000" points="1452.7576,-614.1559 1442.4531,-611.6924 1448.9722,-620.0442 1452.7576,-614.1559"/>
+<path fill="none" stroke="#000000" d="M1199.7802,-649.3008C1182.1677,-639.5462 1159.7088,-627.1074 1140.5533,-616.4982"/>
+<polygon fill="#000000" stroke="#000000" points="1142.1768,-613.3965 1131.7331,-611.6132 1138.7853,-619.52 1142.1768,-613.3965"/>
 </g>
 <!-- Goonstation -->
 <g id="node5" class="node">
 <title>Goonstation</title>
-<ellipse fill="none" stroke="#000000" cx="1638.9316" cy="-594" rx="58.4881" ry="18"/>
-<text text-anchor="middle" x="1638.9316" y="-589.8" font-family="Times,serif" font-size="14.00" fill="#000000">Goonstation</text>
+<ellipse fill="none" stroke="#000000" cx="1359.9316" cy="-594" rx="58.4881" ry="18"/>
+<text text-anchor="middle" x="1359.9316" y="-589.8" font-family="Times,serif" font-size="14.00" fill="#000000">Goonstation</text>
 </g>
 <!-- SS13 (Pre Open)&#45;&gt;Goonstation -->
 <g id="edge2" class="edge">
 <title>SS13 (Pre Open)-&gt;Goonstation</title>
-<path fill="none" stroke="#000000" d="M1553.474,-648.937C1568.7564,-639.1126 1588.1305,-626.6578 1604.5664,-616.0919"/>
-<polygon fill="#000000" stroke="#000000" points="1606.8314,-618.7967 1613.3506,-610.4449 1603.0461,-612.9084 1606.8314,-618.7967"/>
+<path fill="none" stroke="#000000" d="M1260.0829,-649.3008C1278.6857,-638.9977 1302.6953,-625.7001 1322.5083,-614.7267"/>
+<polygon fill="#000000" stroke="#000000" points="1324.2297,-617.7744 1331.2818,-609.8675 1320.8381,-611.6508 1324.2297,-617.7744"/>
 </g>
 <!-- BayStation OpenSS13 -->
 <g id="node6" class="node">
 <title>BayStation OpenSS13</title>
-<ellipse fill="none" stroke="#000000" cx="1414.9316" cy="-522" rx="97.8556" ry="18"/>
-<text text-anchor="middle" x="1414.9316" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">BayStation OpenSS13</text>
+<ellipse fill="none" stroke="#000000" cx="1063.9316" cy="-522" rx="97.8556" ry="18"/>
+<text text-anchor="middle" x="1063.9316" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">BayStation OpenSS13</text>
 </g>
 <!-- Source Decompilation (OpenSS13)&#45;&gt;BayStation OpenSS13 -->
 <g id="edge3" class="edge">
 <title>Source Decompilation (OpenSS13)-&gt;BayStation OpenSS13</title>
-<path fill="none" stroke="#000000" d="M1414.9316,-575.8314C1414.9316,-568.131 1414.9316,-558.9743 1414.9316,-550.4166"/>
-<polygon fill="#000000" stroke="#000000" points="1418.4317,-550.4132 1414.9316,-540.4133 1411.4317,-550.4133 1418.4317,-550.4132"/>
+<path fill="none" stroke="#000000" d="M1090.8472,-575.8314C1086.8701,-567.8771 1082.1161,-558.369 1077.7177,-549.5723"/>
+<polygon fill="#000000" stroke="#000000" points="1080.7409,-547.7923 1073.1382,-540.4133 1074.4799,-550.9228 1080.7409,-547.7923"/>
 </g>
 <!-- Revision 4407 (r4407) -->
 <g id="node7" class="node">
@@ -67,677 +67,701 @@
 <!-- Goonstation&#45;&gt;Revision 4407 (r4407) -->
 <g id="edge4" class="edge">
 <title>Goonstation-&gt;Revision 4407 (r4407)</title>
-<path fill="none" stroke="#000000" d="M1669.8232,-578.5542C1690.3057,-568.3129 1717.4633,-554.7341 1740.0335,-543.449"/>
-<polygon fill="#000000" stroke="#000000" points="1741.6928,-546.5325 1749.0719,-538.9298 1738.5623,-540.2715 1741.6928,-546.5325"/>
+<path fill="none" stroke="#000000" d="M1410.9552,-585.3151C1482.8202,-573.0828 1614.6516,-550.6434 1700.5168,-536.028"/>
+<polygon fill="#000000" stroke="#000000" points="1701.2224,-539.4584 1710.4933,-534.3299 1700.0477,-532.5576 1701.2224,-539.4584"/>
 </g>
 <!-- Goon 2016 -->
 <g id="node8" class="node">
 <title>Goon 2016</title>
-<ellipse fill="none" stroke="#000000" cx="1611.9316" cy="-522" rx="54.4437" ry="18"/>
-<text text-anchor="middle" x="1611.9316" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">Goon 2016</text>
+<ellipse fill="none" stroke="#000000" cx="1233.9316" cy="-522" rx="54.4437" ry="18"/>
+<text text-anchor="middle" x="1233.9316" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">Goon 2016</text>
 </g>
 <!-- Goonstation&#45;&gt;Goon 2016 -->
 <g id="edge5" class="edge">
 <title>Goonstation-&gt;Goon 2016</title>
-<path fill="none" stroke="#000000" d="M1632.1183,-575.8314C1629.1218,-567.8406 1625.5373,-558.2819 1622.2258,-549.4514"/>
-<polygon fill="#000000" stroke="#000000" points="1625.4375,-548.0478 1618.6491,-539.9134 1618.8832,-550.5057 1625.4375,-548.0478"/>
+<path fill="none" stroke="#000000" d="M1331.9681,-578.0209C1313.7352,-567.6021 1289.7614,-553.9028 1270.0853,-542.6593"/>
+<polygon fill="#000000" stroke="#000000" points="1271.8023,-539.6093 1261.3834,-537.6867 1268.3293,-545.687 1271.8023,-539.6093"/>
+</g>
+<!-- Goon 2020 -->
+<g id="node9" class="node">
+<title>Goon 2020</title>
+<ellipse fill="none" stroke="#000000" cx="1359.9316" cy="-522" rx="54.4437" ry="18"/>
+<text text-anchor="middle" x="1359.9316" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">Goon 2020</text>
+</g>
+<!-- Goonstation&#45;&gt;Goon 2020 -->
+<g id="edge6" class="edge">
+<title>Goonstation-&gt;Goon 2020</title>
+<path fill="none" stroke="#000000" d="M1359.9316,-575.8314C1359.9316,-568.131 1359.9316,-558.9743 1359.9316,-550.4166"/>
+<polygon fill="#000000" stroke="#000000" points="1363.4317,-550.4132 1359.9316,-540.4133 1356.4317,-550.4133 1363.4317,-550.4132"/>
+</g>
+<!-- Goonstation (Open Source) -->
+<g id="node10" class="node">
+<title>Goonstation (Open Source)</title>
+<ellipse fill="none" stroke="#000000" cx="1548.9316" cy="-522" rx="117.4606" ry="18"/>
+<text text-anchor="middle" x="1548.9316" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">Goonstation (Open Source)</text>
+</g>
+<!-- Goonstation&#45;&gt;Goonstation (Open Source) -->
+<g id="edge7" class="edge">
+<title>Goonstation-&gt;Goonstation (Open Source)</title>
+<path fill="none" stroke="#ff0000" d="M1396.8213,-579.9468C1424.8597,-569.2655 1463.8396,-554.416 1495.3197,-542.4236"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="1496.7293,-545.632 1504.8282,-538.8013 1494.2373,-539.0906 1496.7293,-545.632"/>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL) -->
-<g id="node9" class="node">
+<g id="node11" class="node">
 <title>/tg/Station (Pre-AGPL)</title>
 <ellipse fill="none" stroke="#000000" cx="1266.9316" cy="-450" rx="101.3356" ry="18"/>
 <text text-anchor="middle" x="1266.9316" y="-445.8" font-family="Times,serif" font-size="14.00" fill="#000000">/tg/Station (Pre-AGPL)</text>
 </g>
 <!-- Revision 4407 (r4407)&#45;&gt;/tg/Station (Pre&#45;AGPL) -->
-<g id="edge6" class="edge">
+<g id="edge8" class="edge">
 <title>Revision 4407 (r4407)-&gt;/tg/Station (Pre-AGPL)</title>
 <path fill="none" stroke="#000000" d="M1710.9485,-509.6574C1698.9322,-507.6963 1686.5874,-505.7422 1674.9316,-504 1567.4105,-487.9292 1443.5727,-471.8861 1360.796,-461.5149"/>
 <polygon fill="#000000" stroke="#000000" points="1361.0139,-458.0149 1350.6569,-460.2472 1360.1454,-464.9609 1361.0139,-458.0149"/>
 </g>
 <!-- BayStation (Luna) -->
-<g id="node10" class="node">
+<g id="node12" class="node">
 <title>BayStation (Luna)</title>
 <ellipse fill="none" stroke="#000000" cx="1782.9316" cy="-450" rx="82.7838" ry="18"/>
 <text text-anchor="middle" x="1782.9316" y="-445.8" font-family="Times,serif" font-size="14.00" fill="#000000">BayStation (Luna)</text>
 </g>
 <!-- Revision 4407 (r4407)&#45;&gt;BayStation (Luna) -->
-<g id="edge7" class="edge">
+<g id="edge9" class="edge">
 <title>Revision 4407 (r4407)-&gt;BayStation (Luna)</title>
 <path fill="none" stroke="#000000" d="M1782.9316,-503.8314C1782.9316,-496.131 1782.9316,-486.9743 1782.9316,-478.4166"/>
 <polygon fill="#000000" stroke="#000000" points="1786.4317,-478.4132 1782.9316,-468.4133 1779.4317,-478.4133 1786.4317,-478.4132"/>
 </g>
 <!-- D2K5 -->
-<g id="node11" class="node">
+<g id="node13" class="node">
 <title>D2K5</title>
 <ellipse fill="none" stroke="#000000" cx="1917.9316" cy="-450" rx="34.7728" ry="18"/>
 <text text-anchor="middle" x="1917.9316" y="-445.8" font-family="Times,serif" font-size="14.00" fill="#000000">D2K5</text>
 </g>
 <!-- Revision 4407 (r4407)&#45;&gt;D2K5 -->
-<g id="edge8" class="edge">
+<g id="edge10" class="edge">
 <title>Revision 4407 (r4407)-&gt;D2K5</title>
 <path fill="none" stroke="#000000" d="M1814.9247,-504.937C1835.8441,-493.78 1863.1244,-479.2305 1884.3547,-467.9077"/>
 <polygon fill="#000000" stroke="#000000" points="1886.1657,-470.9085 1893.3422,-463.1144 1882.8715,-464.732 1886.1657,-470.9085"/>
 </g>
 <!-- /tg/Station (AGPL) -->
-<g id="node13" class="node">
+<g id="node15" class="node">
 <title>/tg/Station (AGPL)</title>
 <ellipse fill="none" stroke="#000000" cx="2010.9316" cy="-378" rx="85.1667" ry="18"/>
 <text text-anchor="middle" x="2010.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">/tg/Station (AGPL)</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;/tg/Station (AGPL) -->
-<g id="edge10" class="edge">
+<g id="edge12" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;/tg/Station (AGPL)</title>
 <path fill="none" stroke="#ff0000" d="M1356.3055,-441.3509C1499.9609,-427.4488 1780.5308,-400.2968 1923.1604,-386.494"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="1923.5712,-389.9707 1933.1875,-385.5236 1922.8969,-383.0032 1923.5712,-389.9707"/>
 </g>
 <!-- BayStation (GPL) -->
-<g id="node14" class="node">
+<g id="node16" class="node">
 <title>BayStation (GPL)</title>
 <ellipse fill="none" stroke="#000000" cx="612.9316" cy="-378" rx="81.0756" ry="18"/>
 <text text-anchor="middle" x="612.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">BayStation (GPL)</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;BayStation (GPL) -->
-<g id="edge11" class="edge">
+<g id="edge13" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;BayStation (GPL)</title>
 <path fill="none" stroke="#000000" d="M1171.5223,-443.8445C1059.0777,-435.9021 866.7804,-420.1644 702.9316,-396 695.8871,-394.9611 688.5595,-393.7364 681.2624,-392.4224"/>
 <polygon fill="#000000" stroke="#000000" points="681.8309,-388.9682 671.3601,-390.5844 680.5534,-395.8507 681.8309,-388.9682"/>
 </g>
 <!-- Old HippieStation -->
-<g id="node15" class="node">
+<g id="node17" class="node">
 <title>Old HippieStation</title>
 <ellipse fill="none" stroke="#000000" cx="793.9316" cy="-378" rx="81.6591" ry="18"/>
 <text text-anchor="middle" x="793.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Old HippieStation</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;Old HippieStation -->
-<g id="edge12" class="edge">
+<g id="edge14" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;Old HippieStation</title>
 <path fill="none" stroke="#000000" d="M1184.0154,-439.6125C1106.5011,-429.5861 987.6198,-413.4006 884.9316,-396 878.2105,-394.8611 871.2243,-393.6068 864.2442,-392.3062"/>
 <polygon fill="#000000" stroke="#000000" points="864.5303,-388.7983 854.0536,-390.3759 863.2275,-395.676 864.5303,-388.7983"/>
 </g>
 <!-- Old YogStation -->
-<g id="node16" class="node">
+<g id="node18" class="node">
 <title>Old YogStation</title>
 <ellipse fill="none" stroke="#000000" cx="965.9316" cy="-378" rx="71.851" ry="18"/>
 <text text-anchor="middle" x="965.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Old YogStation</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;Old YogStation -->
-<g id="edge13" class="edge">
+<g id="edge15" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;Old YogStation</title>
 <path fill="none" stroke="#000000" d="M1206.3818,-435.5163C1154.6111,-423.1327 1080.4103,-405.3836 1028.1617,-392.8856"/>
 <polygon fill="#000000" stroke="#000000" points="1028.8849,-389.4599 1018.345,-390.5374 1027.2563,-396.2679 1028.8849,-389.4599"/>
 </g>
 <!-- NTStation -->
-<g id="node17" class="node">
+<g id="node19" class="node">
 <title>NTStation</title>
 <ellipse fill="none" stroke="#000000" cx="1106.9316" cy="-378" rx="51.0415" ry="18"/>
 <text text-anchor="middle" x="1106.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">NTStation</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;NTStation -->
-<g id="edge14" class="edge">
+<g id="edge16" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;NTStation</title>
 <path fill="none" stroke="#000000" d="M1224.4434,-433.4817C1199.4766,-422.7794 1168.2892,-408.7897 1144.2658,-397.5359"/>
 <polygon fill="#000000" stroke="#000000" points="1145.6462,-394.3171 1135.109,-393.213 1142.6578,-400.6472 1145.6462,-394.3171"/>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;NTStation -->
-<g id="edge19" class="edge">
+<g id="edge21" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;NTStation</title>
 <path fill="none" stroke="#000000" d="M1234.4668,-432.7542C1210.4574,-421.4162 1177.6114,-406.6348 1151.2134,-395.2882"/>
 <polygon fill="#000000" stroke="#000000" points="1152.3793,-391.9805 1141.8079,-391.276 1149.6327,-398.4191 1152.3793,-391.9805"/>
 </g>
 <!-- Traitor Death Match -->
-<g id="node18" class="node">
+<g id="node20" class="node">
 <title>Traitor Death Match</title>
 <ellipse fill="none" stroke="#000000" cx="1266.9316" cy="-378" rx="90.3062" ry="18"/>
 <text text-anchor="middle" x="1266.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Traitor Death Match</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;Traitor Death Match -->
-<g id="edge15" class="edge">
+<g id="edge17" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;Traitor Death Match</title>
 <path fill="none" stroke="#000000" d="M1266.9316,-431.8314C1266.9316,-424.131 1266.9316,-414.9743 1266.9316,-406.4166"/>
 <polygon fill="#000000" stroke="#000000" points="1270.4317,-406.4132 1266.9316,-396.4133 1263.4317,-406.4133 1270.4317,-406.4132"/>
 </g>
 <!-- Archangel -->
-<g id="node19" class="node">
+<g id="node21" class="node">
 <title>Archangel</title>
 <ellipse fill="none" stroke="#000000" cx="1426.9316" cy="-378" rx="51.005" ry="18"/>
 <text text-anchor="middle" x="1426.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Archangel</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;Archangel -->
-<g id="edge16" class="edge">
+<g id="edge18" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;Archangel</title>
 <path fill="none" stroke="#000000" d="M1304.4444,-433.1192C1328.9332,-422.0992 1360.9046,-407.7121 1386.0426,-396.4"/>
 <polygon fill="#000000" stroke="#000000" points="1387.6296,-399.524 1395.3125,-392.2286 1384.757,-393.1406 1387.6296,-399.524"/>
 </g>
 <!-- FacePunch -->
-<g id="node20" class="node">
+<g id="node22" class="node">
 <title>FacePunch</title>
 <ellipse fill="none" stroke="#000000" cx="1549.9316" cy="-378" rx="53.3109" ry="18"/>
 <text text-anchor="middle" x="1549.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">FacePunch</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;FacePunch -->
-<g id="edge17" class="edge">
+<g id="edge19" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;FacePunch</title>
 <path fill="none" stroke="#000000" d="M1328.2561,-435.6008C1372.4742,-425.0593 1433.5255,-410.1785 1486.9316,-396 1491.0132,-394.9164 1495.2359,-393.7685 1499.473,-392.5978"/>
 <polygon fill="#000000" stroke="#000000" points="1500.637,-395.9067 1509.3259,-389.8442 1498.7528,-389.165 1500.637,-395.9067"/>
 </g>
 <!-- Old FTL13 -->
-<g id="node21" class="node">
+<g id="node23" class="node">
 <title>Old FTL13</title>
 <ellipse fill="none" stroke="#000000" cx="1675.9316" cy="-378" rx="54.5177" ry="18"/>
 <text text-anchor="middle" x="1675.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Old FTL13</text>
 </g>
 <!-- /tg/Station (Pre&#45;AGPL)&#45;&gt;Old FTL13 -->
-<g id="edge18" class="edge">
+<g id="edge20" class="edge">
 <title>/tg/Station (Pre-AGPL)-&gt;Old FTL13</title>
 <path fill="none" stroke="#000000" d="M1350.4009,-439.7654C1420.5944,-430.4837 1523.3783,-415.3114 1611.9316,-396 1616.3649,-395.0332 1620.9459,-393.9388 1625.5246,-392.7789"/>
 <polygon fill="#000000" stroke="#000000" points="1626.7056,-396.0874 1635.4865,-390.159 1624.9251,-389.3176 1626.7056,-396.0874"/>
 </g>
 <!-- Lifeweb -->
-<g id="node12" class="node">
+<g id="node14" class="node">
 <title>Lifeweb</title>
 <ellipse fill="none" stroke="#000000" cx="2157.9316" cy="-378" rx="43.4163" ry="18"/>
 <text text-anchor="middle" x="2157.9316" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Lifeweb</text>
 </g>
 <!-- BayStation (Luna)&#45;&gt;Lifeweb -->
-<g id="edge9" class="edge">
+<g id="edge11" class="edge">
 <title>BayStation (Luna)-&gt;Lifeweb</title>
 <path fill="none" stroke="#000000" d="M1843.5643,-437.65C1853.6916,-435.6898 1864.099,-433.7379 1873.9316,-432 1976.2516,-413.9152 2004.0285,-420.7997 2104.9316,-396 2108.491,-395.1252 2112.1521,-394.1174 2115.8076,-393.0348"/>
 <polygon fill="#000000" stroke="#000000" points="2116.8988,-396.3608 2125.3974,-390.0344 2114.8085,-389.6801 2116.8988,-396.3608"/>
 </g>
 <!-- YogStation -->
-<g id="node31" class="node">
+<g id="node33" class="node">
 <title>YogStation</title>
 <ellipse fill="none" stroke="#000000" cx="1949.9316" cy="-306" rx="55.0555" ry="18"/>
 <text text-anchor="middle" x="1949.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">YogStation</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;YogStation -->
-<g id="edge29" class="edge">
+<g id="edge31" class="edge">
 <title>/tg/Station (AGPL)-&gt;YogStation</title>
 <path fill="none" stroke="#000000" d="M1995.8529,-360.2022C1988.466,-351.4832 1979.4412,-340.8311 1971.3535,-331.2849"/>
 <polygon fill="#000000" stroke="#000000" points="1973.9714,-328.9604 1964.8368,-323.593 1968.6305,-333.4854 1973.9714,-328.9604"/>
 </g>
 <!-- Fallout 13 -->
-<g id="node32" class="node">
+<g id="node34" class="node">
 <title>Fallout 13</title>
 <ellipse fill="none" stroke="#000000" cx="2072.9316" cy="-306" rx="50.4413" ry="18"/>
 <text text-anchor="middle" x="2072.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Fallout 13</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;Fallout 13 -->
-<g id="edge30" class="edge">
+<g id="edge32" class="edge">
 <title>/tg/Station (AGPL)-&gt;Fallout 13</title>
 <path fill="none" stroke="#000000" d="M2026.2574,-360.2022C2033.8215,-351.4182 2043.0751,-340.672 2051.3423,-331.0714"/>
 <polygon fill="#000000" stroke="#000000" points="2054.1229,-333.2061 2057.9959,-323.3446 2048.8185,-328.6385 2054.1229,-333.2061"/>
 </g>
 <!-- BeeStation -->
-<g id="node33" class="node">
+<g id="node35" class="node">
 <title>BeeStation</title>
 <ellipse fill="none" stroke="#000000" cx="2194.9316" cy="-306" rx="53.3264" ry="18"/>
 <text text-anchor="middle" x="2194.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">BeeStation</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;BeeStation -->
-<g id="edge31" class="edge">
+<g id="edge33" class="edge">
 <title>/tg/Station (AGPL)-&gt;BeeStation</title>
 <path fill="none" stroke="#000000" d="M2051.7671,-362.0209C2081.001,-350.5815 2120.341,-335.1876 2150.3845,-323.4314"/>
 <polygon fill="#000000" stroke="#000000" points="2151.7507,-326.6554 2159.7877,-319.7519 2149.1998,-320.1367 2151.7507,-326.6554"/>
 </g>
 <!-- HippieStation -->
-<g id="node34" class="node">
+<g id="node36" class="node">
 <title>HippieStation</title>
 <ellipse fill="none" stroke="#000000" cx="2330.9316" cy="-306" rx="64.8641" ry="18"/>
 <text text-anchor="middle" x="2330.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">HippieStation</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;HippieStation -->
-<g id="edge32" class="edge">
+<g id="edge34" class="edge">
 <title>/tg/Station (AGPL)-&gt;HippieStation</title>
 <path fill="none" stroke="#000000" d="M2071.1701,-365.173C2121.0255,-354.4618 2193.6705,-338.6352 2256.9316,-324 2261.9554,-322.8378 2267.1659,-321.6119 2272.3898,-320.3687"/>
 <polygon fill="#000000" stroke="#000000" points="2273.4969,-323.7026 2282.4062,-317.969 2271.8659,-316.8953 2273.4969,-323.7026"/>
 </g>
 <!-- Citadel -->
-<g id="node35" class="node">
+<g id="node37" class="node">
 <title>Citadel</title>
 <ellipse fill="none" stroke="#000000" cx="2452.9316" cy="-306" rx="38.8594" ry="18"/>
 <text text-anchor="middle" x="2452.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Citadel</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;Citadel -->
-<g id="edge33" class="edge">
+<g id="edge35" class="edge">
 <title>/tg/Station (AGPL)-&gt;Citadel</title>
 <path fill="none" stroke="#000000" d="M2073.1717,-365.5852C2084.0686,-363.5896 2095.3146,-361.6431 2105.9316,-360 2238.2056,-339.5296 2274.897,-355.7248 2404.9316,-324 2407.947,-323.2643 2411.0317,-322.395 2414.1107,-321.4422"/>
 <polygon fill="#000000" stroke="#000000" points="2415.4698,-324.6779 2423.8346,-318.1755 2413.2406,-318.0423 2415.4698,-324.6779"/>
 </g>
 <!-- Toolbox Station -->
-<g id="node36" class="node">
+<g id="node38" class="node">
 <title>Toolbox Station</title>
 <ellipse fill="none" stroke="#000000" cx="2582.9316" cy="-306" rx="73.5783" ry="18"/>
 <text text-anchor="middle" x="2582.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Toolbox Station</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;Toolbox Station -->
-<g id="edge34" class="edge">
+<g id="edge36" class="edge">
 <title>/tg/Station (AGPL)-&gt;Toolbox Station</title>
 <path fill="none" stroke="#000000" d="M2072.3675,-365.4641C2083.5066,-363.4468 2095.0426,-361.5242 2105.9316,-360 2280.5127,-335.5631 2326.7208,-350.951 2500.9316,-324 2507.1702,-323.0349 2513.645,-321.8811 2520.0976,-320.6301"/>
 <polygon fill="#000000" stroke="#000000" points="2521.0707,-324.0044 2530.1819,-318.5973 2519.6874,-317.1424 2521.0707,-324.0044"/>
 </g>
 <!-- FulpStation -->
-<g id="node37" class="node">
+<g id="node39" class="node">
 <title>FulpStation</title>
 <ellipse fill="none" stroke="#000000" cx="2730.9316" cy="-306" rx="56.2169" ry="18"/>
 <text text-anchor="middle" x="2730.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">FulpStation</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;FulpStation -->
-<g id="edge35" class="edge">
+<g id="edge37" class="edge">
 <title>/tg/Station (AGPL)-&gt;FulpStation</title>
 <path fill="none" stroke="#000000" d="M2071.8253,-365.3138C2083.1251,-363.2869 2094.8566,-361.3998 2105.9316,-360 2353.3657,-328.7262 2420.0059,-365.5 2665.9316,-324 2670.7304,-323.1902 2675.6844,-322.1689 2680.6166,-321.0261"/>
 <polygon fill="#000000" stroke="#000000" points="2681.789,-324.3415 2690.6534,-318.5386 2680.105,-317.547 2681.789,-324.3415"/>
 </g>
 <!-- OracleStation -->
-<g id="node38" class="node">
+<g id="node40" class="node">
 <title>OracleStation</title>
 <ellipse fill="none" stroke="#000000" cx="2868.9316" cy="-306" rx="64.2591" ry="18"/>
 <text text-anchor="middle" x="2868.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">OracleStation</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;OracleStation -->
-<g id="edge36" class="edge">
+<g id="edge38" class="edge">
 <title>/tg/Station (AGPL)-&gt;OracleStation</title>
 <path fill="none" stroke="#000000" d="M2071.5569,-365.2494C2082.9364,-363.2159 2094.7651,-361.3429 2105.9316,-360 2410.8184,-323.3327 2492.157,-368.9606 2795.9316,-324 2801.6393,-323.1552 2807.5524,-322.0655 2813.4298,-320.8406"/>
 <polygon fill="#000000" stroke="#000000" points="2814.2358,-324.247 2823.2447,-318.6711 2812.7249,-317.412 2814.2358,-324.247"/>
 </g>
 <!-- Sunset Station -->
-<g id="node39" class="node">
+<g id="node41" class="node">
 <title>Sunset Station</title>
 <ellipse fill="none" stroke="#000000" cx="1465.9316" cy="-306" rx="66.6299" ry="18"/>
 <text text-anchor="middle" x="1465.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Sunset Station</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;Sunset Station -->
-<g id="edge37" class="edge">
+<g id="edge39" class="edge">
 <title>/tg/Station (AGPL)-&gt;Sunset Station</title>
 <path fill="none" stroke="#000000" d="M1930.8536,-371.6753C1837.1558,-363.607 1677.5574,-347.7834 1541.9316,-324 1536.1991,-322.9947 1530.2524,-321.8206 1524.3245,-320.5624"/>
 <polygon fill="#000000" stroke="#000000" points="1524.9256,-317.111 1514.4071,-318.3807 1523.4216,-323.9476 1524.9256,-317.111"/>
 </g>
 <!-- Star Trek 13 -->
-<g id="node40" class="node">
+<g id="node42" class="node">
 <title>Star Trek 13</title>
 <ellipse fill="none" stroke="#000000" cx="1609.9316" cy="-306" rx="59.1103" ry="18"/>
 <text text-anchor="middle" x="1609.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Star Trek 13</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;Star Trek 13 -->
-<g id="edge38" class="edge">
+<g id="edge40" class="edge">
 <title>/tg/Station (AGPL)-&gt;Star Trek 13</title>
 <path fill="none" stroke="#000000" d="M1938.7743,-368.3813C1871.0682,-358.8648 1767.1512,-342.9947 1677.9316,-324 1673.2508,-323.0035 1668.4097,-321.8903 1663.567,-320.7194"/>
 <polygon fill="#000000" stroke="#000000" points="1664.2249,-317.2764 1653.6753,-318.2541 1662.5321,-324.0686 1664.2249,-317.2764"/>
 </g>
 <!-- FTL13 -->
-<g id="node41" class="node">
+<g id="node43" class="node">
 <title>FTL13</title>
 <ellipse fill="none" stroke="#000000" cx="1724.9316" cy="-306" rx="37.7217" ry="18"/>
 <text text-anchor="middle" x="1724.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">FTL13</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;FTL13 -->
-<g id="edge39" class="edge">
+<g id="edge41" class="edge">
 <title>/tg/Station (AGPL)-&gt;FTL13</title>
 <path fill="none" stroke="#000000" d="M1946.6265,-366.0778C1898.1412,-356.462 1830.2543,-341.6573 1771.9316,-324 1769.1483,-323.1574 1766.2944,-322.2296 1763.4352,-321.2531"/>
 <polygon fill="#000000" stroke="#000000" points="1764.3834,-317.875 1753.7888,-317.798 1762.023,-324.4651 1764.3834,-317.875"/>
 </g>
 <!-- Skyrat 13 -->
-<g id="node42" class="node">
+<g id="node44" class="node">
 <title>Skyrat 13</title>
 <ellipse fill="none" stroke="#000000" cx="1828.9316" cy="-306" rx="48.1369" ry="18"/>
 <text text-anchor="middle" x="1828.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Skyrat 13</text>
 </g>
 <!-- /tg/Station (AGPL)&#45;&gt;Skyrat 13 -->
-<g id="edge40" class="edge">
+<g id="edge42" class="edge">
 <title>/tg/Station (AGPL)-&gt;Skyrat 13</title>
 <path fill="none" stroke="#000000" d="M1970.5399,-362.0209C1941.1513,-350.3946 1901.4371,-334.6835 1871.5451,-322.8581"/>
 <polygon fill="#000000" stroke="#000000" points="1872.7969,-319.5895 1862.2106,-319.1653 1870.2219,-326.0986 1872.7969,-319.5895"/>
 </g>
 <!-- /vg/Station -->
-<g id="node24" class="node">
+<g id="node26" class="node">
 <title>/vg/Station</title>
 <ellipse fill="none" stroke="#000000" cx="772.9316" cy="-306" rx="53.3476" ry="18"/>
 <text text-anchor="middle" x="772.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">/vg/Station</text>
 </g>
 <!-- BayStation (GPL)&#45;&gt;/vg/Station -->
-<g id="edge22" class="edge">
+<g id="edge24" class="edge">
 <title>BayStation (GPL)-&gt;/vg/Station</title>
 <path fill="none" stroke="#000000" d="M648.8387,-361.8418C673.2664,-350.8493 705.6706,-336.2674 731.24,-324.7612"/>
 <polygon fill="#000000" stroke="#000000" points="732.9913,-327.8112 740.6743,-320.5158 730.1187,-321.4278 732.9913,-327.8112"/>
 </g>
 <!-- Paradise -->
-<g id="node25" class="node">
+<g id="node27" class="node">
 <title>Paradise</title>
 <ellipse fill="none" stroke="#000000" cx="937.9316" cy="-306" rx="43.9964" ry="18"/>
 <text text-anchor="middle" x="937.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Paradise</text>
 </g>
 <!-- BayStation (GPL)&#45;&gt;Paradise -->
-<g id="edge23" class="edge">
+<g id="edge25" class="edge">
 <title>BayStation (GPL)-&gt;Paradise</title>
 <path fill="none" stroke="#000000" d="M670.6605,-365.2108C732.7795,-351.4491 830.507,-329.7987 888.9913,-316.8421"/>
 <polygon fill="#000000" stroke="#000000" points="890.0789,-320.1861 899.0851,-314.606 888.5648,-313.3518 890.0789,-320.1861"/>
 </g>
 <!-- Tau Ceti -->
-<g id="node26" class="node">
+<g id="node28" class="node">
 <title>Tau Ceti</title>
 <ellipse fill="none" stroke="#000000" cx="146.9316" cy="-306" rx="44.6193" ry="18"/>
 <text text-anchor="middle" x="146.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tau Ceti</text>
 </g>
 <!-- BayStation (GPL)&#45;&gt;Tau Ceti -->
-<g id="edge24" class="edge">
+<g id="edge26" class="edge">
 <title>BayStation (GPL)-&gt;Tau Ceti</title>
 <path fill="none" stroke="#000000" d="M535.8377,-372.3309C452.4713,-365.1745 316.0551,-350.4747 200.9316,-324 197.299,-323.1646 193.5645,-322.1847 189.8372,-321.1208"/>
 <polygon fill="#000000" stroke="#000000" points="190.6474,-317.7091 180.0618,-318.1507 188.6124,-324.4068 190.6474,-317.7091"/>
 </g>
 <!-- Aurora (Old) -->
-<g id="node27" class="node">
+<g id="node29" class="node">
 <title>Aurora (Old)</title>
 <ellipse fill="none" stroke="#000000" cx="445.9316" cy="-306" rx="61.9176" ry="18"/>
 <text text-anchor="middle" x="445.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Aurora (Old)</text>
 </g>
 <!-- BayStation (GPL)&#45;&gt;Aurora (Old) -->
-<g id="edge25" class="edge">
+<g id="edge27" class="edge">
 <title>BayStation (GPL)-&gt;Aurora (Old)</title>
 <path fill="none" stroke="#000000" d="M575.4535,-361.8418C550.1873,-350.9486 516.7455,-336.5305 490.1719,-325.0737"/>
 <polygon fill="#000000" stroke="#000000" points="491.2889,-321.7439 480.7203,-320.9987 488.5175,-328.1719 491.2889,-321.7439"/>
 </g>
 <!-- Colonial Marines -->
-<g id="node28" class="node">
+<g id="node30" class="node">
 <title>Colonial Marines</title>
 <ellipse fill="none" stroke="#000000" cx="287.9316" cy="-306" rx="78.2085" ry="18"/>
 <text text-anchor="middle" x="287.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Colonial Marines</text>
 </g>
 <!-- BayStation (GPL)&#45;&gt;Colonial Marines -->
-<g id="edge26" class="edge">
+<g id="edge28" class="edge">
 <title>BayStation (GPL)-&gt;Colonial Marines</title>
 <path fill="none" stroke="#000000" d="M555.2026,-365.2108C498.9901,-352.7576 413.6187,-333.8445 354.5545,-320.7595"/>
 <polygon fill="#000000" stroke="#000000" points="355.0989,-317.2953 344.5785,-318.5495 353.5847,-324.1296 355.0989,-317.2953"/>
 </g>
 <!-- BayStation (AGPL) -->
-<g id="node29" class="node">
+<g id="node31" class="node">
 <title>BayStation (AGPL)</title>
 <ellipse fill="none" stroke="#000000" cx="613.9316" cy="-306" rx="88.0182" ry="18"/>
 <text text-anchor="middle" x="613.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">BayStation (AGPL)</text>
 </g>
 <!-- BayStation (GPL)&#45;&gt;BayStation (AGPL) -->
-<g id="edge27" class="edge">
+<g id="edge29" class="edge">
 <title>BayStation (GPL)-&gt;BayStation (AGPL)</title>
 <path fill="none" stroke="#ff0000" d="M613.1839,-359.8314C613.2909,-352.131 613.418,-342.9743 613.5369,-334.4166"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="617.0365,-334.4609 613.6758,-324.4133 610.0372,-334.3637 617.0365,-334.4609"/>
 </g>
 <!-- D12 Station -->
-<g id="node22" class="node">
+<g id="node24" class="node">
 <title>D12 Station</title>
 <ellipse fill="none" stroke="#000000" cx="1106.9316" cy="-306" rx="57.384" ry="18"/>
 <text text-anchor="middle" x="1106.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">D12 Station</text>
 </g>
 <!-- NTStation&#45;&gt;D12 Station -->
-<g id="edge20" class="edge">
+<g id="edge22" class="edge">
 <title>NTStation-&gt;D12 Station</title>
 <path fill="none" stroke="#000000" d="M1106.9316,-359.8314C1106.9316,-352.131 1106.9316,-342.9743 1106.9316,-334.4166"/>
 <polygon fill="#000000" stroke="#000000" points="1110.4317,-334.4132 1106.9316,-324.4133 1103.4317,-334.4133 1110.4317,-334.4132"/>
 </g>
 <!-- Corporate Mercenaries -->
-<g id="node23" class="node">
+<g id="node25" class="node">
 <title>Corporate Mercenaries</title>
 <ellipse fill="none" stroke="#000000" cx="1281.9316" cy="-306" rx="99.5566" ry="18"/>
 <text text-anchor="middle" x="1281.9316" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Corporate Mercenaries</text>
 </g>
 <!-- FacePunch&#45;&gt;Corporate Mercenaries -->
-<g id="edge21" class="edge">
+<g id="edge23" class="edge">
 <title>FacePunch-&gt;Corporate Mercenaries</title>
 <path fill="none" stroke="#000000" d="M1509.2986,-366.2568C1501.8655,-364.1467 1494.1713,-361.9875 1486.9316,-360 1441.1258,-347.4248 1389.4016,-333.8041 1349.369,-323.3884"/>
 <polygon fill="#000000" stroke="#000000" points="1350.0126,-319.9395 1339.4538,-320.8119 1348.2521,-326.7145 1350.0126,-319.9395"/>
 </g>
 <!-- Persistence SS13 (Old) -->
-<g id="node30" class="node">
+<g id="node32" class="node">
 <title>Persistence SS13 (Old)</title>
 <ellipse fill="none" stroke="#000000" cx="1420.9316" cy="-234" rx="100.7172" ry="18"/>
 <text text-anchor="middle" x="1420.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Persistence SS13 (Old)</text>
 </g>
 <!-- Paradise&#45;&gt;Persistence SS13 (Old) -->
-<g id="edge28" class="edge">
+<g id="edge30" class="edge">
 <title>Paradise-&gt;Persistence SS13 (Old)</title>
 <path fill="none" stroke="#000000" d="M977.9788,-298.6089C997.0192,-295.1954 1020.1186,-291.1996 1040.9316,-288 1161.0233,-269.5379 1191.7549,-269.9005 1311.9316,-252 1320.249,-250.7611 1328.9146,-249.4186 1337.5652,-248.0443"/>
 <polygon fill="#000000" stroke="#000000" points="1338.3717,-251.4598 1347.6915,-246.4207 1337.2635,-244.5481 1338.3717,-251.4598"/>
 </g>
 <!-- Aurora Station -->
-<g id="node51" class="node">
+<g id="node53" class="node">
 <title>Aurora Station</title>
 <ellipse fill="none" stroke="#000000" cx="163.9316" cy="-234" rx="68.317" ry="18"/>
 <text text-anchor="middle" x="163.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Aurora Station</text>
 </g>
 <!-- Aurora (Old)&#45;&gt;Aurora Station -->
-<g id="edge61" class="edge">
+<g id="edge63" class="edge">
 <title>Aurora (Old)-&gt;Aurora Station</title>
 <path fill="none" stroke="#ff0000" d="M399.365,-294.1107C351.0133,-281.7656 275.2421,-262.4197 222.7765,-249.0242"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="223.4915,-245.5946 212.9364,-246.5119 221.7597,-252.377 223.4915,-245.5946"/>
 </g>
 <!-- TGMC -->
-<g id="node52" class="node">
+<g id="node54" class="node">
 <title>TGMC</title>
 <ellipse fill="none" stroke="#000000" cx="38.9316" cy="-234" rx="38.8632" ry="18"/>
 <text text-anchor="middle" x="38.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">TGMC</text>
 </g>
 <!-- Colonial Marines&#45;&gt;TGMC -->
-<g id="edge50" class="edge">
+<g id="edge52" class="edge">
 <title>Colonial Marines-&gt;TGMC</title>
 <path fill="none" stroke="#000000" d="M233.7738,-292.9555C193.0815,-282.7915 136.1294,-267.7928 86.9316,-252 84.151,-251.1074 81.2947,-250.1479 78.4276,-249.1534"/>
 <polygon fill="#000000" stroke="#000000" points="79.328,-245.7582 68.7334,-245.6829 76.9687,-252.3487 79.328,-245.7582"/>
 </g>
 <!-- Urist McStation -->
-<g id="node44" class="node">
+<g id="node46" class="node">
 <title>Urist McStation</title>
 <ellipse fill="none" stroke="#000000" cx="1135.9316" cy="-234" rx="72.9871" ry="18"/>
 <text text-anchor="middle" x="1135.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Urist McStation</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;Urist McStation -->
-<g id="edge42" class="edge">
+<g id="edge44" class="edge">
 <title>BayStation (AGPL)-&gt;Urist McStation</title>
 <path fill="none" stroke="#000000" d="M677.4688,-293.4675C688.5966,-291.485 700.0833,-289.5733 710.9316,-288 862.6263,-265.9996 902.6156,-276.4704 1053.9316,-252 1060.1634,-250.9922 1066.6338,-249.8102 1073.0836,-248.5417"/>
 <polygon fill="#000000" stroke="#000000" points="1074.0638,-251.914 1083.1649,-246.4899 1072.6677,-245.0547 1074.0638,-251.914"/>
 </g>
 <!-- Polaris -->
-<g id="node45" class="node">
+<g id="node47" class="node">
 <title>Polaris</title>
 <ellipse fill="none" stroke="#000000" cx="1264.9316" cy="-234" rx="37.7159" ry="18"/>
 <text text-anchor="middle" x="1264.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Polaris</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;Polaris -->
-<g id="edge43" class="edge">
+<g id="edge45" class="edge">
 <title>BayStation (AGPL)-&gt;Polaris</title>
 <path fill="none" stroke="#000000" d="M676.6446,-293.296C688.0198,-291.2962 699.8035,-289.423 710.9316,-288 935.0076,-259.3466 997.393,-300.9271 1217.9316,-252 1221.0878,-251.2998 1224.3134,-250.426 1227.5225,-249.4434"/>
 <polygon fill="#000000" stroke="#000000" points="1228.6622,-252.7528 1237.0142,-246.234 1226.4199,-246.1216 1228.6622,-252.7528"/>
 </g>
 <!-- CEV Eris -->
-<g id="node46" class="node">
+<g id="node48" class="node">
 <title>CEV Eris</title>
 <ellipse fill="none" stroke="#000000" cx="297.9316" cy="-234" rx="48.1311" ry="18"/>
 <text text-anchor="middle" x="297.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">CEV Eris</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;CEV Eris -->
-<g id="edge44" class="edge">
+<g id="edge46" class="edge">
 <title>BayStation (AGPL)-&gt;CEV Eris</title>
 <path fill="none" stroke="#000000" d="M550.2661,-293.4882C485.9556,-280.7125 391.0935,-261.4541 354.9316,-252 351.3579,-251.0657 347.6761,-250.0433 343.9853,-248.9752"/>
 <polygon fill="#000000" stroke="#000000" points="344.8461,-245.5796 334.2627,-246.0708 342.8425,-252.2867 344.8461,-245.5796"/>
 </g>
 <!-- Persistence (New) -->
-<g id="node47" class="node">
+<g id="node49" class="node">
 <title>Persistence (New)</title>
 <ellipse fill="none" stroke="#000000" cx="445.9316" cy="-234" rx="81.5934" ry="18"/>
 <text text-anchor="middle" x="445.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Persistence (New)</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;Persistence (New) -->
-<g id="edge45" class="edge">
+<g id="edge47" class="edge">
 <title>BayStation (AGPL)-&gt;Persistence (New)</title>
 <path fill="none" stroke="#000000" d="M575.8098,-289.6621C551.1503,-279.0937 518.8815,-265.2643 492.678,-254.0342"/>
 <polygon fill="#000000" stroke="#000000" points="493.894,-250.7475 483.3238,-250.0252 491.1365,-257.1815 493.894,-250.7475"/>
 </g>
 <!-- Europa Station -->
-<g id="node48" class="node">
+<g id="node50" class="node">
 <title>Europa Station</title>
 <ellipse fill="none" stroke="#000000" cx="613.9316" cy="-234" rx="68.9007" ry="18"/>
 <text text-anchor="middle" x="613.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Europa Station</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;Europa Station -->
-<g id="edge46" class="edge">
+<g id="edge48" class="edge">
 <title>BayStation (AGPL)-&gt;Europa Station</title>
 <path fill="none" stroke="#000000" d="M613.9316,-287.8314C613.9316,-280.131 613.9316,-270.9743 613.9316,-262.4166"/>
 <polygon fill="#000000" stroke="#000000" points="617.4317,-262.4132 613.9316,-252.4133 610.4317,-262.4133 617.4317,-262.4132"/>
 </g>
 <!-- SCP&#45;13 -->
-<g id="node49" class="node">
+<g id="node51" class="node">
 <title>SCP-13</title>
 <ellipse fill="none" stroke="#000000" cx="741.9316" cy="-234" rx="41.1703" ry="18"/>
 <text text-anchor="middle" x="741.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">SCP-13</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;SCP&#45;13 -->
-<g id="edge47" class="edge">
+<g id="edge49" class="edge">
 <title>BayStation (AGPL)-&gt;SCP-13</title>
 <path fill="none" stroke="#000000" d="M644.2658,-288.937C663.2844,-278.239 687.8479,-264.422 707.5827,-253.3212"/>
 <polygon fill="#000000" stroke="#000000" points="709.5546,-256.2278 716.5544,-248.2746 706.1227,-250.1268 709.5546,-256.2278"/>
 </g>
 <!-- Halo: Space Station Evolved -->
-<g id="node50" class="node">
+<g id="node52" class="node">
 <title>Halo: Space Station Evolved</title>
 <ellipse fill="none" stroke="#000000" cx="922.9316" cy="-234" rx="122.1735" ry="18"/>
 <text text-anchor="middle" x="922.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Halo: Space Station Evolved</text>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;Halo: Space Station Evolved -->
-<g id="edge48" class="edge">
+<g id="edge50" class="edge">
 <title>BayStation (AGPL)-&gt;Halo: Space Station Evolved</title>
 <path fill="none" stroke="#000000" d="M672.0521,-292.4574C721.7553,-280.876 793.6157,-264.1318 847.7009,-251.5295"/>
 <polygon fill="#000000" stroke="#000000" points="848.6388,-254.9048 857.5836,-249.2267 847.0502,-248.0874 848.6388,-254.9048"/>
 </g>
 <!-- BayStation (AGPL)&#45;&gt;Aurora Station -->
-<g id="edge49" class="edge">
+<g id="edge51" class="edge">
 <title>BayStation (AGPL)-&gt;Aurora Station</title>
 <path fill="none" stroke="#000000" d="M549.8378,-293.6032C538.8771,-291.6275 527.59,-289.6828 516.9316,-288 394.7394,-268.7078 362.6459,-274.1071 240.9316,-252 235.4442,-251.0033 229.7593,-249.8697 224.0778,-248.6676"/>
 <polygon fill="#000000" stroke="#000000" points="224.4146,-245.1588 213.8981,-246.4449 222.9213,-251.9977 224.4146,-245.1588"/>
 </g>
 <!-- NSV13 -->
-<g id="node61" class="node">
+<g id="node63" class="node">
 <title>NSV13</title>
 <ellipse fill="none" stroke="#000000" cx="2247.9316" cy="-234" rx="40.0089" ry="18"/>
 <text text-anchor="middle" x="2247.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">NSV13</text>
 </g>
 <!-- BeeStation&#45;&gt;NSV13 -->
-<g id="edge59" class="edge">
+<g id="edge61" class="edge">
 <title>BeeStation-&gt;NSV13</title>
 <path fill="none" stroke="#000000" d="M2208.0327,-288.2022C2214.4164,-279.5301 2222.2078,-268.9455 2229.2057,-259.4389"/>
 <polygon fill="#000000" stroke="#000000" points="2232.2366,-261.2255 2235.3461,-251.0972 2226.5992,-257.0757 2232.2366,-261.2255"/>
 </g>
 <!-- Austation -->
-<g id="node62" class="node">
+<g id="node64" class="node">
 <title>Austation</title>
 <ellipse fill="none" stroke="#000000" cx="2140.9316" cy="-234" rx="48.6733" ry="18"/>
 <text text-anchor="middle" x="2140.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Austation</text>
 </g>
 <!-- BeeStation&#45;&gt;Austation -->
-<g id="edge60" class="edge">
+<g id="edge62" class="edge">
 <title>BeeStation-&gt;Austation</title>
 <path fill="none" stroke="#000000" d="M2181.5832,-288.2022C2175.0611,-279.506 2167.0966,-268.8867 2159.9514,-259.3598"/>
 <polygon fill="#000000" stroke="#000000" points="2162.74,-257.2446 2153.94,-251.3446 2157.14,-261.4446 2162.74,-257.2446"/>
 </g>
 <!-- Deep Space 13 -->
-<g id="node43" class="node">
+<g id="node45" class="node">
 <title>Deep Space 13</title>
 <ellipse fill="none" stroke="#000000" cx="1609.9316" cy="-234" rx="68.9042" ry="18"/>
 <text text-anchor="middle" x="1609.9316" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Deep Space 13</text>
 </g>
 <!-- Star Trek 13&#45;&gt;Deep Space 13 -->
-<g id="edge41" class="edge">
+<g id="edge43" class="edge">
 <title>Star Trek 13-&gt;Deep Space 13</title>
 <path fill="none" stroke="#ff0000" d="M1609.9316,-287.8314C1609.9316,-280.131 1609.9316,-270.9743 1609.9316,-262.4166"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="1613.4317,-262.4132 1609.9316,-252.4133 1606.4317,-262.4133 1613.4317,-262.4132"/>
 </g>
 <!-- V.O.R.E. Station -->
-<g id="node56" class="node">
+<g id="node58" class="node">
 <title>V.O.R.E. Station</title>
 <ellipse fill="none" stroke="#000000" cx="1343.9316" cy="-162" rx="76.5068" ry="18"/>
 <text text-anchor="middle" x="1343.9316" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">V.O.R.E. Station</text>
 </g>
 <!-- Polaris&#45;&gt;V.O.R.E. Station -->
-<g id="edge54" class="edge">
+<g id="edge56" class="edge">
 <title>Polaris-&gt;V.O.R.E. Station</title>
 <path fill="none" stroke="#000000" d="M1282.4642,-218.0209C1292.658,-208.7304 1305.7138,-196.8314 1317.169,-186.3912"/>
 <polygon fill="#000000" stroke="#000000" points="1319.7556,-188.7693 1324.789,-179.4464 1315.0404,-183.5956 1319.7556,-188.7693"/>
 </g>
 <!-- World Server -->
-<g id="node59" class="node">
+<g id="node61" class="node">
 <title>World Server</title>
 <ellipse fill="none" stroke="#000000" cx="1185.9316" cy="-162" rx="63.1428" ry="18"/>
 <text text-anchor="middle" x="1185.9316" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">World Server</text>
 </g>
 <!-- Polaris&#45;&gt;World Server -->
-<g id="edge57" class="edge">
+<g id="edge59" class="edge">
 <title>Polaris-&gt;World Server</title>
 <path fill="none" stroke="#000000" d="M1247.3989,-218.0209C1237.1313,-208.663 1223.96,-196.6588 1212.4454,-186.1645"/>
 <polygon fill="#000000" stroke="#000000" points="1214.543,-183.3407 1204.7944,-179.1915 1209.8277,-188.5144 1214.543,-183.3407"/>
 </g>
 <!-- InterStation&#45;Two -->
-<g id="node53" class="node">
+<g id="node55" class="node">
 <title>InterStation-Two</title>
 <ellipse fill="none" stroke="#000000" cx="297.9316" cy="-162" rx="77.5839" ry="18"/>
 <text text-anchor="middle" x="297.9316" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">InterStation-Two</text>
 </g>
 <!-- CEV Eris&#45;&gt;InterStation&#45;Two -->
-<g id="edge51" class="edge">
+<g id="edge53" class="edge">
 <title>CEV Eris-&gt;InterStation-Two</title>
 <path fill="none" stroke="#000000" d="M297.9316,-215.8314C297.9316,-208.131 297.9316,-198.9743 297.9316,-190.4166"/>
 <polygon fill="#000000" stroke="#000000" points="301.4317,-190.4132 297.9316,-180.4133 294.4317,-190.4133 301.4317,-190.4132"/>
 </g>
 <!-- Lebensraum -->
-<g id="node54" class="node">
+<g id="node56" class="node">
 <title>Lebensraum</title>
 <ellipse fill="none" stroke="#000000" cx="297.9316" cy="-90" rx="58.529" ry="18"/>
 <text text-anchor="middle" x="297.9316" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">Lebensraum</text>
 </g>
 <!-- InterStation&#45;Two&#45;&gt;Lebensraum -->
-<g id="edge52" class="edge">
+<g id="edge54" class="edge">
 <title>InterStation-Two-&gt;Lebensraum</title>
 <path fill="none" stroke="#000000" d="M297.9316,-143.8314C297.9316,-136.131 297.9316,-126.9743 297.9316,-118.4166"/>
 <polygon fill="#000000" stroke="#000000" points="301.4317,-118.4132 297.9316,-108.4133 294.4317,-118.4133 301.4317,-118.4132"/>
 </g>
 <!-- Civilization 13 -->
-<g id="node55" class="node">
+<g id="node57" class="node">
 <title>Civilization 13</title>
 <ellipse fill="none" stroke="#000000" cx="297.9316" cy="-18" rx="68.9181" ry="18"/>
 <text text-anchor="middle" x="297.9316" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Civilization 13</text>
 </g>
 <!-- Lebensraum&#45;&gt;Civilization 13 -->
-<g id="edge53" class="edge">
+<g id="edge55" class="edge">
 <title>Lebensraum-&gt;Civilization 13</title>
 <path fill="none" stroke="#000000" d="M297.9316,-71.8314C297.9316,-64.131 297.9316,-54.9743 297.9316,-46.4166"/>
 <polygon fill="#000000" stroke="#000000" points="301.4317,-46.4132 297.9316,-36.4133 294.4317,-46.4133 301.4317,-46.4132"/>
 </g>
 <!-- Chompers -->
-<g id="node57" class="node">
+<g id="node59" class="node">
 <title>Chompers</title>
 <ellipse fill="none" stroke="#000000" cx="1398.9316" cy="-90" rx="50.9638" ry="18"/>
 <text text-anchor="middle" x="1398.9316" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">Chompers</text>
 </g>
 <!-- V.O.R.E. Station&#45;&gt;Chompers -->
-<g id="edge55" class="edge">
+<g id="edge57" class="edge">
 <title>V.O.R.E. Station-&gt;Chompers</title>
 <path fill="none" stroke="#000000" d="M1357.5271,-144.2022C1364.1208,-135.5704 1372.1619,-125.0439 1379.3977,-115.5717"/>
 <polygon fill="#000000" stroke="#000000" points="1382.2034,-117.6644 1385.4924,-107.593 1376.6406,-113.4151 1382.2034,-117.6644"/>
 </g>
 <!-- AEIOU -->
-<g id="node58" class="node">
+<g id="node60" class="node">
 <title>AEIOU</title>
 <ellipse fill="none" stroke="#000000" cx="1288.9316" cy="-90" rx="41.1297" ry="18"/>
 <text text-anchor="middle" x="1288.9316" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">AEIOU</text>
 </g>
 <!-- V.O.R.E. Station&#45;&gt;AEIOU -->
-<g id="edge56" class="edge">
+<g id="edge58" class="edge">
 <title>V.O.R.E. Station-&gt;AEIOU</title>
 <path fill="none" stroke="#000000" d="M1330.336,-144.2022C1323.6439,-135.4416 1315.4609,-124.7293 1308.142,-115.1482"/>
 <polygon fill="#000000" stroke="#000000" points="1310.8437,-112.9193 1301.9919,-107.0972 1305.281,-117.1686 1310.8437,-112.9193"/>
 </g>
 <!-- Eclipse Station -->
-<g id="node60" class="node">
+<g id="node62" class="node">
 <title>Eclipse Station</title>
 <ellipse fill="none" stroke="#000000" cx="1288.9316" cy="-18" rx="69.4767" ry="18"/>
 <text text-anchor="middle" x="1288.9316" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Eclipse Station</text>
 </g>
 <!-- AEIOU&#45;&gt;Eclipse Station -->
-<g id="edge58" class="edge">
+<g id="edge60" class="edge">
 <title>AEIOU-&gt;Eclipse Station</title>
 <path fill="none" stroke="#ff0000" d="M1288.9316,-71.8314C1288.9316,-64.131 1288.9316,-54.9743 1288.9316,-46.4166"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="1292.4317,-46.4132 1288.9316,-36.4133 1285.4317,-46.4133 1292.4317,-46.4132"/>
