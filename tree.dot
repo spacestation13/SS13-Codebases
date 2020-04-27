@@ -24,6 +24,8 @@ digraph  G {
 	"/tg/Station (Pre-AGPL)" -> "Archangel"
 	"/tg/Station (Pre-AGPL)" -> "FacePunch"
 	"/tg/Station (Pre-AGPL)" -> "Old FTL13"
+	"/tg/Station (Pre-AGPL)" -> "NTStation"
+	"NTStation" -> "D12 Station"
 	"FacePunch" -> "Corporate Mercenaries"
 	"BayStation (GPL)" -> "/vg/Station"
 	"BayStation (GPL)" -> "Paradise"
