@@ -66,4 +66,5 @@ digraph  G {
 	"AEIOU" -> "Eclipse Station" [color=red]
 	"BeeStation" -> "NSV13"
 	"BeeStation" -> "Austation"
+	"Aurora (Old)" -> "Aurora Station" [color=red]
 }
