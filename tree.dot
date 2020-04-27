@@ -62,4 +62,5 @@ digraph  G {
 	"Polaris" -> "World Server"
 	"AEIOU" -> "Eclipse Station" [color=red]
 	"BeeStation" -> "NSV13"
+	"BeeStation" -> "Austation"
 }
