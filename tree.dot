@@ -49,7 +49,9 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "BeeStation"
 	"BeeStation" -> "NSV13"
 	"BeeStation" -> "Austation"
-	"BeeStation" -> "WaspStation"
+	"/tg/Station (AGPL)" -> "WaspStation"
+	"/tg/Station (AGPL)" -> "Boomer Station"
+	"WaspStation" -> "Boomer Station" [color=red]
 	"/tg/Station (AGPL)" -> "HippieStation"
 	"/tg/Station (AGPL)" -> "Citadel"
 	"Citadel" -> "Skyrat 13"
