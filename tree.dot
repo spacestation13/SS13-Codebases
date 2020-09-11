@@ -1,6 +1,7 @@
 digraph  G {
-	label = "SS13 Codebases Circa Mid 2020"
-	labelloc="t"
+	label = "SS13 Codebases Circa Mid-Late 2020"
+	labelloc="top"
+	
 
 	// info boxes
 	"Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand." [shape=rectangle]
@@ -28,10 +29,11 @@ digraph  G {
 	"/tg/Station (Pre-AGPL)" -> "Archangel"
 	"/tg/Station (Pre-AGPL)" -> "FacePunch"
 	"/tg/Station (Pre-AGPL)" -> "Old FTL13"
-	"NTStation" -> "D12 Station"
+	"NTStation" -> "D20 Station"
 	"FacePunch" -> "Corporate Mercenaries"
 	"BayStation (GPL)" -> "/vg/Station"
 	"BayStation (GPL)" -> "Paradise"
+	"Paradise" -> "Persistence SS13 (Old)"
 	"BayStation (GPL)" -> "RocketStation42"
 	"BayStation (GPL)" -> "BestRP"
 	"BayStation (GPL)" -> "Tau Ceti"
@@ -41,7 +43,6 @@ digraph  G {
 	"Colonial Marines" -> "DM;CA"
 	"DM;CA" -> "TGMC" [color=red]
 	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
-	"Paradise" -> "Persistence SS13 (Old)"
 	"/tg/Station (AGPL)" -> "YogStation"
 	"YogStation" -> "Fulpstation"
 	"/tg/Station (AGPL)" -> "Fallout 13"
@@ -50,7 +51,6 @@ digraph  G {
 	"BeeStation" -> "NSV13"
 	"BeeStation" -> "Austation"
 	"/tg/Station (AGPL)" -> "WaspStation"
-	"/tg/Station (AGPL)" -> "Boomer Station"
 	"WaspStation" -> "Boomer Station" [color=red]
 	"/tg/Station (AGPL)" -> "HippieStation"
 	"/tg/Station (AGPL)" -> "Citadel"
@@ -67,10 +67,10 @@ digraph  G {
 	"Polaris" -> "World Server"
 	"BayStation (AGPL)" -> "CEV Eris"
 	"CEV Eris" -> "InterStation-Two"
-	"InterStation-Two" -> "Lebensraum"
-	"Lebensraum" -> "Civilization 13"
 	"InterStation-Two" -> "Ava's Battlegrounds"
 	"Ava's Battlegrounds" -> "No Mans's Land"
+	"No Mans's Land" -> "Lebensraum"
+	"Lebensraum" -> "Civilization 13"
 	"BayStation (AGPL)" -> "Persistence (New)"
 	"BayStation (AGPL)" -> "Europa Station"
 	"BayStation (AGPL)" -> "SCP-13"
