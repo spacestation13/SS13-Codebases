@@ -15,6 +15,7 @@ digraph  G {
 	"Goon 2016 Release" -> "T/Goonstation"
 	"Goon 2016 Release" -> "Goon 2020 Release" [color=red]
 	"Goonstation" -> "Goonstation (Open Source)" [color=red]
+	"Goonstation (Open Source)" -> "BeeStation Clover"	
 	"Revision 4407 (r4407)" -> "/tg/Station (Pre-AGPL)"
 	"Revision 4407 (r4407)" -> "BayStation (Luna)"
 	"Revision 4407 (r4407)" -> "D2K5"
