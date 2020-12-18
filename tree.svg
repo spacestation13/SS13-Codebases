@@ -895,8 +895,8 @@
 <!-- Ava&#39;s Battlegrounds&#45;&gt;No Mans&#39;s Land -->
 <g id="edge71" class="edge">
 <title>Ava&#39;s Battlegrounds&#45;&gt;No Mans&#39;s Land</title>
-<path fill="none" stroke="black" d="M1244.55,-215.7C1244.55,-207.98 1244.55,-198.71 1244.55,-190.11"/>
-<polygon fill="black" stroke="black" points="1248.05,-190.1 1244.55,-180.1 1241.05,-190.1 1248.05,-190.1"/>
+<path fill="none" stroke="red" d="M1244.55,-215.7C1244.55,-207.98 1244.55,-198.71 1244.55,-190.11"/>
+<polygon fill="red" stroke="red" points="1248.05,-190.1 1244.55,-180.1 1241.05,-190.1 1248.05,-190.1"/>
 </g>
 <!-- Lebensraum -->
 <g id="node74" class="node">
@@ -907,8 +907,8 @@
 <!-- No Mans&#39;s Land&#45;&gt;Lebensraum -->
 <g id="edge72" class="edge">
 <title>No Mans&#39;s Land&#45;&gt;Lebensraum</title>
-<path fill="none" stroke="black" d="M1244.55,-143.7C1244.55,-135.98 1244.55,-126.71 1244.55,-118.11"/>
-<polygon fill="black" stroke="black" points="1248.05,-118.1 1244.55,-108.1 1241.05,-118.1 1248.05,-118.1"/>
+<path fill="none" stroke="red" d="M1244.55,-143.7C1244.55,-135.98 1244.55,-126.71 1244.55,-118.11"/>
+<polygon fill="red" stroke="red" points="1248.05,-118.1 1244.55,-108.1 1241.05,-118.1 1248.05,-118.1"/>
 </g>
 <!-- Civilization 13 -->
 <g id="node75" class="node">
@@ -919,8 +919,8 @@
 <!-- Lebensraum&#45;&gt;Civilization 13 -->
 <g id="edge73" class="edge">
 <title>Lebensraum&#45;&gt;Civilization 13</title>
-<path fill="none" stroke="black" d="M1244.55,-71.7C1244.55,-63.98 1244.55,-54.71 1244.55,-46.11"/>
-<polygon fill="black" stroke="black" points="1248.05,-46.1 1244.55,-36.1 1241.05,-46.1 1248.05,-46.1"/>
+<path fill="none" stroke="red" d="M1244.55,-71.7C1244.55,-63.98 1244.55,-54.71 1244.55,-46.11"/>
+<polygon fill="red" stroke="red" points="1248.05,-46.1 1244.55,-36.1 1241.05,-46.1 1248.05,-46.1"/>
 </g>
 <!-- Interpost Hague -->
 <g id="node77" class="node">

@@ -77,9 +77,9 @@ digraph  G {
 	"BayStation (AGPL)" -> "CEV Eris"
 	"CEV Eris" -> "InterStation-Two"
 	"InterStation-Two" -> "Ava's Battlegrounds"
-	"Ava's Battlegrounds" -> "No Mans's Land"
-	"No Mans's Land" -> "Lebensraum"
-	"Lebensraum" -> "Civilization 13"
+	"Ava's Battlegrounds" -> "No Mans's Land" [color=red]
+	"No Mans's Land" -> "Lebensraum" [color=red]
+	"Lebensraum" -> "Civilization 13" [color=red]
 	"BayStation (AGPL)" -> "Interbay"
 	"Interbay" -> "Interpost Hague"
 	"Polaris" -> "V.O.R.E. Station"
