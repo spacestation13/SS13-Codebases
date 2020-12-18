@@ -45,7 +45,8 @@ digraph  G {
 	"DM;CA" -> "TGMC" [color=red]
 	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
 	"/tg/Station (AGPL)" -> "YogStation"
-	"YogStation" -> "Fulpstation"
+	"YogStation" -> "FTL13"
+	"/tg/Station (AGPL)" -> "Fulpstation"
 	"/tg/Station (AGPL)" -> "Fallout 13"
 	"Fallout 13" -> "Desert Rose"
 	"/tg/Station (AGPL)" -> "BeeStation"
@@ -62,7 +63,6 @@ digraph  G {
 	"/tg/Station (AGPL)" -> "Sunset Station"
 	"/tg/Station (AGPL)" -> "Star Trek 13"
 	"Star Trek 13" -> "Deep Space 13" [color=red]
-	"/tg/Station (AGPL)" -> "FTL13"
 	"/tg/Station (AGPL)" -> "Apollo Station"
 	"/tg/Station (AGPL)" -> "Mojave Sun"
 	"BayStation (AGPL)" -> "Persistence (New)"
