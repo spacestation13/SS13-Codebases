@@ -11,7 +11,7 @@ digraph  G {
 	"Source Decompilation (OpenSS13)"
 	"SS13 (Pre Open)" -> "Goonstation"
 	"Goonstation" -> "Goon 2009 Public SVN" [color=red]
-	"Goon 2009 Public SVN" -> "Baystation Pre-r4407"
+	"Goon 2009 Public SVN" -> "BayStation Pre-r4407"
 	"Goonstation" -> "Revision 4407 (r4407)" [color=red]
 	"Goonstation" -> "Goon 2016 Release" [color=red]
 	"Goon 2016 Release" -> "T/Goonstation"
