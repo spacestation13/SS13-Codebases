@@ -31,7 +31,6 @@ digraph  G {
 	"/tg/Station (Pre-AGPL)" -> "Traitor Death Match"
 	"/tg/Station (Pre-AGPL)" -> "Archangel"
 	"/tg/Station (Pre-AGPL)" -> "FacePunch"
-	"/tg/Station (Pre-AGPL)" -> "Old FTL13"
 	"NTStation" -> "D20 Station"
 	"FacePunch" -> "Corporate Mercenaries"
 	"BayStation (GPL)" -> "/vg/Station"
@@ -45,10 +44,12 @@ digraph  G {
 	"BayStation (GPL)" -> "Colonial Marines"
 	"Colonial Marines" -> "DM;CA"
 	"DM;CA" -> "TGMC" [color=red]
-	"BayStation (GPL)" -> "BayStation (AGPL)"  [color=red]
+	"BayStation (GPL)" -> "BayStation (AGPL)" [color=red]
 	"/tg/Station (AGPL)" -> "YogStation"
-	"YogStation" -> "FTL13"
+	"YogStation" -> "Old FTL13"
+	"Old FTL13" -> "FTL13" [color=red]
 	"/tg/Station (AGPL)" -> "Fulpstation"
+	"/tg/Station (AGPL)" -> "FTL13"
 	"/tg/Station (AGPL)" -> "Fallout 13"
 	"Fallout 13" -> "Desert Rose"
 	"/tg/Station (AGPL)" -> "BeeStation"
