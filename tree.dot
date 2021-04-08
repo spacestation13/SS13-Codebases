@@ -57,6 +57,7 @@ digraph  G {
 	"BeeStation" -> "Austation"
 	"/tg/Station (AGPL)" -> "WaspStation"
 	"WaspStation" -> "Boomer Station" [color=red]
+	"Boomer Station" -> "White Sands" [color=red]
 	"/tg/Station (AGPL)" -> "HippieStation"
 	"/tg/Station (AGPL)" -> "Citadel Main"
 	"Citadel Main" -> "HyperStation"
