@@ -84,50 +84,50 @@
 <polygon fill="none" stroke="blue" points="1713.5,-782 1610.5,-782 1610.5,-746 1713.5,-746 1713.5,-782"/>
 <text text-anchor="middle" x="1662" y="-760.3" font-family="Times,serif" font-size="14.00">Goonstation</text>
 </g>
-<!-- Goonstation (2009 Public SVN) -->
-<g id="node75" class="node">
-<title>Goonstation (2009 Public SVN)</title>
-<ellipse fill="none" stroke="black" cx="1950" cy="-691" rx="155.17" ry="18"/>
-<text text-anchor="middle" x="1950" y="-687.3" font-family="Times,serif" font-size="14.00">Goonstation (2009 Public SVN)</text>
-</g>
-<!-- Goonstation&#45;&gt;Goonstation (2009 Public SVN) -->
-<g id="edge68" class="edge">
-<title>Goonstation&#45;&gt;Goonstation (2009 Public SVN)</title>
-<path fill="none" stroke="red" d="M1713.82,-750.22C1759.37,-739 1826.14,-722.53 1877.08,-709.98"/>
-<polygon fill="red" stroke="red" points="1887.04,-707.52 1878.41,-714.28 1882.19,-708.72 1877.34,-709.91 1877.34,-709.91 1877.34,-709.91 1882.19,-708.72 1876.26,-705.54 1887.04,-707.52 1887.04,-707.52"/>
-</g>
-<!-- Goonstation (2016 Release) -->
-<g id="node77" class="node">
-<title>Goonstation (2016 Release)</title>
-<ellipse fill="none" stroke="black" cx="1030" cy="-691" rx="139.18" ry="18"/>
-<text text-anchor="middle" x="1030" y="-687.3" font-family="Times,serif" font-size="14.00">Goonstation (2016 Release)</text>
-</g>
-<!-- Goonstation&#45;&gt;Goonstation (2016 Release) -->
-<g id="edge69" class="edge">
-<title>Goonstation&#45;&gt;Goonstation (2016 Release)</title>
-<path fill="none" stroke="red" d="M1610.28,-757.19C1508.32,-745.74 1279.34,-720.01 1141.46,-704.52"/>
-<polygon fill="red" stroke="red" points="1131.28,-703.38 1141.72,-700.02 1136.25,-703.94 1141.22,-704.49 1141.22,-704.49 1141.22,-704.49 1136.25,-703.94 1140.72,-708.97 1131.28,-703.38 1131.28,-703.38"/>
-</g>
 <!-- Goonstation (Open Source) -->
-<g id="node80" class="node">
+<g id="node75" class="node">
 <title>Goonstation (Open Source)</title>
-<ellipse fill="none" stroke="black" cx="1359" cy="-691" rx="135.68" ry="18"/>
-<text text-anchor="middle" x="1359" y="-687.3" font-family="Times,serif" font-size="14.00">Goonstation (Open Source)</text>
+<ellipse fill="none" stroke="black" cx="1930" cy="-691" rx="135.68" ry="18"/>
+<text text-anchor="middle" x="1930" y="-687.3" font-family="Times,serif" font-size="14.00">Goonstation (Open Source)</text>
 </g>
 <!-- Goonstation&#45;&gt;Goonstation (Open Source) -->
-<g id="edge70" class="edge">
+<g id="edge67" class="edge">
 <title>Goonstation&#45;&gt;Goonstation (Open Source)</title>
-<path fill="none" stroke="red" d="M1610.26,-750.88C1561.41,-739.43 1487.65,-722.15 1432.67,-709.26"/>
-<polygon fill="red" stroke="red" points="1422.63,-706.91 1433.39,-704.81 1427.5,-708.05 1432.36,-709.19 1432.36,-709.19 1432.36,-709.19 1427.5,-708.05 1431.34,-713.57 1422.63,-706.91 1422.63,-706.91"/>
+<path fill="none" stroke="red" d="M1713.67,-749.31C1755.9,-738.12 1815.94,-722.22 1862.06,-710"/>
+<polygon fill="red" stroke="red" points="1871.97,-707.37 1863.46,-714.28 1867.14,-708.65 1862.31,-709.93 1862.31,-709.93 1862.31,-709.93 1867.14,-708.65 1861.15,-705.58 1871.97,-707.37 1871.97,-707.37"/>
+</g>
+<!-- Goon 2009 Public SVN -->
+<g id="node77" class="node">
+<title>Goon 2009 Public SVN</title>
+<ellipse fill="none" stroke="black" cx="958" cy="-691" rx="116.18" ry="18"/>
+<text text-anchor="middle" x="958" y="-687.3" font-family="Times,serif" font-size="14.00">Goon 2009 Public SVN</text>
+</g>
+<!-- Goonstation&#45;&gt;Goon 2009 Public SVN -->
+<g id="edge65" class="edge">
+<title>Goonstation&#45;&gt;Goon 2009 Public SVN</title>
+<path fill="none" stroke="red" d="M1610.23,-757.78C1495.15,-746.17 1216.18,-718.04 1063.01,-702.59"/>
+<polygon fill="red" stroke="red" points="1052.65,-701.55 1063.05,-698.07 1057.63,-702.05 1062.6,-702.55 1062.6,-702.55 1062.6,-702.55 1057.63,-702.05 1062.15,-707.03 1052.65,-701.55 1052.65,-701.55"/>
+</g>
+<!-- Goon 2016 Release -->
+<g id="node78" class="node">
+<title>Goon 2016 Release</title>
+<ellipse fill="none" stroke="black" cx="1277" cy="-691" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="1277" y="-687.3" font-family="Times,serif" font-size="14.00">Goon 2016 Release</text>
+</g>
+<!-- Goonstation&#45;&gt;Goon 2016 Release -->
+<g id="edge66" class="edge">
+<title>Goonstation&#45;&gt;Goon 2016 Release</title>
+<path fill="none" stroke="red" d="M1610.48,-753.5C1544.69,-741.37 1430.26,-720.26 1354.08,-706.21"/>
+<polygon fill="red" stroke="red" points="1344.06,-704.37 1354.71,-701.75 1348.97,-705.27 1353.89,-706.18 1353.89,-706.18 1353.89,-706.18 1348.97,-705.27 1353.08,-710.61 1344.06,-704.37 1344.06,-704.37"/>
 </g>
 <!-- Revision 4407 (r4407) -->
-<g id="node82" class="node">
+<g id="node79" class="node">
 <title>Revision 4407 (r4407)</title>
 <ellipse fill="none" stroke="black" cx="1662" cy="-691" rx="114.28" ry="18"/>
 <text text-anchor="middle" x="1662" y="-687.3" font-family="Times,serif" font-size="14.00">Revision 4407 (r4407)</text>
 </g>
 <!-- Goonstation&#45;&gt;Revision 4407 (r4407) -->
-<g id="edge71" class="edge">
+<g id="edge68" class="edge">
 <title>Goonstation&#45;&gt;Revision 4407 (r4407)</title>
 <path fill="none" stroke="red" d="M1662,-745.81C1662,-737.79 1662,-728.05 1662,-719.07"/>
 <polygon fill="red" stroke="red" points="1662,-709.03 1666.5,-719.03 1662,-714.03 1662,-719.03 1662,-719.03 1662,-719.03 1662,-714.03 1657.5,-719.03 1662,-709.03 1662,-709.03"/>
@@ -243,8 +243,8 @@
 <!-- /tg/Station (GPLv3)&#45;&gt;Traitor Death Match -->
 <g id="edge25" class="edge">
 <title>/tg/Station (GPLv3)&#45;&gt;Traitor Death Match</title>
-<path fill="none" stroke="black" d="M1739.9,-601.59C1800.65,-589.58 1884.56,-572.98 1944.86,-561.06"/>
-<polygon fill="black" stroke="black" points="1954.7,-559.11 1945.76,-565.47 1949.79,-560.08 1944.89,-561.05 1944.89,-561.05 1944.89,-561.05 1949.79,-560.08 1944.02,-556.64 1954.7,-559.11 1954.7,-559.11"/>
+<path fill="none" stroke="black" d="M1729.06,-599.99C1755.17,-593.63 1785.4,-586.61 1813,-581 1852.86,-572.9 1897.29,-565.24 1934.82,-559.17"/>
+<polygon fill="black" stroke="black" points="1944.7,-557.58 1935.55,-563.61 1939.77,-558.37 1934.83,-559.17 1934.83,-559.17 1934.83,-559.17 1939.77,-558.37 1934.12,-554.72 1944.7,-557.58 1944.7,-557.58"/>
 </g>
 <!-- YogStation (Old) -->
 <g id="node35" class="node">
@@ -735,8 +735,8 @@
 <!-- Citadel Main&#45;&gt;Skyrat 13 -->
 <g id="edge59" class="edge">
 <title>Citadel Main&#45;&gt;Skyrat 13</title>
-<path fill="none" stroke="black" d="M3146.82,-459.74C3155.88,-457.8 3165.21,-455.82 3174,-454 3216.16,-445.25 3226.57,-442.32 3269,-435 3323.88,-425.54 3338.42,-428.06 3393,-417 3397.68,-416.05 3402.53,-414.97 3407.37,-413.82"/>
-<polygon fill="black" stroke="black" points="3417.25,-411.4 3408.61,-418.15 3412.39,-412.59 3407.54,-413.78 3407.54,-413.78 3407.54,-413.78 3412.39,-412.59 3406.46,-409.41 3417.25,-411.4 3417.25,-411.4"/>
+<path fill="none" stroke="black" d="M3146.35,-459.6C3155.54,-457.66 3165.04,-455.72 3174,-454 3270.94,-435.39 3296.49,-437.73 3393,-417 3397.6,-416.01 3402.37,-414.91 3407.14,-413.76"/>
+<polygon fill="black" stroke="black" points="3416.87,-411.34 3408.25,-418.12 3412.02,-412.55 3407.16,-413.75 3407.16,-413.75 3407.16,-413.75 3412.02,-412.55 3406.08,-409.39 3416.87,-411.34 3416.87,-411.34"/>
 </g>
 <!-- Desert Rose -->
 <g id="node74" class="node">
@@ -813,20 +813,20 @@
 <!-- AEIOU -->
 <g id="node36" class="node">
 <title>AEIOU</title>
-<ellipse fill="none" stroke="black" cx="1674" cy="-253" rx="42.49" ry="18"/>
-<text text-anchor="middle" x="1674" y="-249.3" font-family="Times,serif" font-size="14.00">AEIOU</text>
+<ellipse fill="none" stroke="black" cx="1631" cy="-253" rx="42.49" ry="18"/>
+<text text-anchor="middle" x="1631" y="-249.3" font-family="Times,serif" font-size="14.00">AEIOU</text>
 </g>
 <!-- Eclipse Station -->
 <g id="node37" class="node">
 <title>Eclipse Station</title>
-<ellipse fill="none" stroke="black" cx="1674" cy="-180" rx="81.49" ry="18"/>
-<text text-anchor="middle" x="1674" y="-176.3" font-family="Times,serif" font-size="14.00">Eclipse Station</text>
+<ellipse fill="none" stroke="black" cx="1631" cy="-180" rx="81.49" ry="18"/>
+<text text-anchor="middle" x="1631" y="-176.3" font-family="Times,serif" font-size="14.00">Eclipse Station</text>
 </g>
 <!-- AEIOU&#45;&gt;Eclipse Station -->
 <g id="edge27" class="edge">
 <title>AEIOU&#45;&gt;Eclipse Station</title>
-<path fill="none" stroke="red" d="M1674,-234.81C1674,-226.79 1674,-217.05 1674,-208.07"/>
-<polygon fill="red" stroke="red" points="1674,-198.03 1678.5,-208.03 1674,-203.03 1674,-208.03 1674,-208.03 1674,-208.03 1674,-203.03 1669.5,-208.03 1674,-198.03 1674,-198.03"/>
+<path fill="none" stroke="red" d="M1631,-234.81C1631,-226.79 1631,-217.05 1631,-208.07"/>
+<polygon fill="red" stroke="red" points="1631,-198.03 1635.5,-208.03 1631,-203.03 1631,-208.03 1631,-208.03 1631,-208.03 1631,-203.03 1626.5,-208.03 1631,-198.03 1631,-198.03"/>
 </g>
 <!-- Aurora (Old)&#45;&gt;Aurora Station -->
 <g id="edge28" class="edge">
@@ -837,128 +837,128 @@
 <!-- Ava&#39;s Battlegrounds -->
 <g id="node40" class="node">
 <title>Ava&#39;s Battlegrounds</title>
-<ellipse fill="none" stroke="black" cx="1844" cy="-253" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="1844" y="-249.3" font-family="Times,serif" font-size="14.00">Ava&#39;s Battlegrounds</text>
+<ellipse fill="none" stroke="black" cx="1801" cy="-253" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="1801" y="-249.3" font-family="Times,serif" font-size="14.00">Ava&#39;s Battlegrounds</text>
 </g>
 <!-- No Mans&#39;s Land -->
 <g id="node41" class="node">
 <title>No Mans&#39;s Land</title>
-<ellipse fill="none" stroke="black" cx="1858" cy="-180" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="1858" y="-176.3" font-family="Times,serif" font-size="14.00">No Mans&#39;s Land</text>
+<ellipse fill="none" stroke="black" cx="1815" cy="-180" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="1815" y="-176.3" font-family="Times,serif" font-size="14.00">No Mans&#39;s Land</text>
 </g>
 <!-- Ava&#39;s Battlegrounds&#45;&gt;No Mans&#39;s Land -->
 <g id="edge29" class="edge">
 <title>Ava&#39;s Battlegrounds&#45;&gt;No Mans&#39;s Land</title>
-<path fill="none" stroke="black" d="M1847.39,-234.81C1848.97,-226.79 1850.89,-217.05 1852.66,-208.07"/>
-<polygon fill="black" stroke="black" points="1854.64,-198.03 1857.12,-208.71 1853.67,-202.93 1852.71,-207.84 1852.71,-207.84 1852.71,-207.84 1853.67,-202.93 1848.29,-206.97 1854.64,-198.03 1854.64,-198.03"/>
+<path fill="none" stroke="black" d="M1804.39,-234.81C1805.97,-226.79 1807.89,-217.05 1809.66,-208.07"/>
+<polygon fill="black" stroke="black" points="1811.64,-198.03 1814.12,-208.71 1810.67,-202.93 1809.71,-207.84 1809.71,-207.84 1809.71,-207.84 1810.67,-202.93 1805.29,-206.97 1811.64,-198.03 1811.64,-198.03"/>
 </g>
 <!-- Lebensraum -->
 <g id="node87" class="node">
 <title>Lebensraum</title>
-<ellipse fill="none" stroke="black" cx="1858" cy="-107" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="1858" y="-103.3" font-family="Times,serif" font-size="14.00">Lebensraum</text>
+<ellipse fill="none" stroke="black" cx="1815" cy="-107" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="1815" y="-103.3" font-family="Times,serif" font-size="14.00">Lebensraum</text>
 </g>
 <!-- No Mans&#39;s Land&#45;&gt;Lebensraum -->
 <g id="edge78" class="edge">
 <title>No Mans&#39;s Land&#45;&gt;Lebensraum</title>
-<path fill="none" stroke="black" d="M1858,-161.81C1858,-153.79 1858,-144.05 1858,-135.07"/>
-<polygon fill="black" stroke="black" points="1858,-125.03 1862.5,-135.03 1858,-130.03 1858,-135.03 1858,-135.03 1858,-135.03 1858,-130.03 1853.5,-135.03 1858,-125.03 1858,-125.03"/>
+<path fill="none" stroke="black" d="M1815,-161.81C1815,-153.79 1815,-144.05 1815,-135.07"/>
+<polygon fill="black" stroke="black" points="1815,-125.03 1819.5,-135.03 1815,-130.03 1815,-135.03 1815,-135.03 1815,-135.03 1815,-130.03 1810.5,-135.03 1815,-125.03 1815,-125.03"/>
 </g>
 <!-- NEV Northern Light -->
 <g id="node65" class="node">
 <title>NEV Northern Light</title>
-<ellipse fill="none" stroke="black" cx="2226" cy="-326" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="2226" y="-322.3" font-family="Times,serif" font-size="14.00">NEV Northern Light</text>
+<ellipse fill="none" stroke="black" cx="2183" cy="-326" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="2183" y="-322.3" font-family="Times,serif" font-size="14.00">NEV Northern Light</text>
 </g>
 <!-- CEV Eris&#45;&gt;NEV Northern Light -->
 <g id="edge54" class="edge">
 <title>CEV Eris&#45;&gt;NEV Northern Light</title>
-<path fill="none" stroke="black" d="M1975.3,-387C1982.83,-384.96 1990.65,-382.88 1998,-381 2050.58,-367.57 2110.28,-353.47 2155.4,-343.05"/>
-<polygon fill="black" stroke="black" points="2165.37,-340.75 2156.64,-347.38 2160.5,-341.87 2155.63,-343 2155.63,-343 2155.63,-343 2160.5,-341.87 2154.62,-338.61 2165.37,-340.75 2165.37,-340.75"/>
+<path fill="none" stroke="black" d="M1974.87,-386.83C2014.23,-375.51 2075.69,-357.85 2121.64,-344.64"/>
+<polygon fill="black" stroke="black" points="2131.49,-341.81 2123.12,-348.89 2126.68,-343.19 2121.88,-344.57 2121.88,-344.57 2121.88,-344.57 2126.68,-343.19 2120.64,-340.24 2131.49,-341.81 2131.49,-341.81"/>
 </g>
 <!-- InterStation&#45;Two -->
 <g id="node66" class="node">
 <title>InterStation&#45;Two</title>
-<ellipse fill="none" stroke="black" cx="1829" cy="-326" rx="89.08" ry="18"/>
-<text text-anchor="middle" x="1829" y="-322.3" font-family="Times,serif" font-size="14.00">InterStation&#45;Two</text>
+<ellipse fill="none" stroke="black" cx="1786" cy="-326" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="1786" y="-322.3" font-family="Times,serif" font-size="14.00">InterStation&#45;Two</text>
 </g>
 <!-- CEV Eris&#45;&gt;InterStation&#45;Two -->
 <g id="edge55" class="edge">
 <title>CEV Eris&#45;&gt;InterStation&#45;Two</title>
-<path fill="none" stroke="black" d="M1913.05,-382.77C1898.33,-373 1878.98,-360.16 1862.56,-349.27"/>
-<polygon fill="black" stroke="black" points="1853.78,-343.44 1864.6,-345.22 1857.95,-346.21 1862.11,-348.97 1862.11,-348.97 1862.11,-348.97 1857.95,-346.21 1859.63,-352.72 1853.78,-343.44 1853.78,-343.44"/>
+<path fill="none" stroke="black" d="M1906.36,-383.97C1884.11,-373.44 1853.31,-358.86 1828.44,-347.09"/>
+<polygon fill="black" stroke="black" points="1819.23,-342.73 1830.19,-342.94 1823.75,-344.87 1828.27,-347.01 1828.27,-347.01 1828.27,-347.01 1823.75,-344.87 1826.34,-351.07 1819.23,-342.73 1819.23,-342.73"/>
 </g>
 <!-- Soujurn Station -->
 <g id="node67" class="node">
 <title>Soujurn Station</title>
-<ellipse fill="none" stroke="black" cx="2020" cy="-326" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="2020" y="-322.3" font-family="Times,serif" font-size="14.00">Soujurn Station</text>
+<ellipse fill="none" stroke="black" cx="1977" cy="-326" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="1977" y="-322.3" font-family="Times,serif" font-size="14.00">Soujurn Station</text>
 </g>
 <!-- CEV Eris&#45;&gt;Soujurn Station -->
 <g id="edge56" class="edge">
 <title>CEV Eris&#45;&gt;Soujurn Station</title>
-<path fill="none" stroke="black" d="M1955.06,-381.89C1966.18,-372.49 1980.39,-360.48 1992.68,-350.09"/>
-<polygon fill="black" stroke="black" points="2000.43,-343.54 1995.7,-353.43 1996.61,-346.77 1992.79,-350 1992.79,-350 1992.79,-350 1996.61,-346.77 1989.89,-346.56 2000.43,-343.54 2000.43,-343.54"/>
+<path fill="none" stroke="black" d="M1945.72,-381.17C1950.55,-372.81 1956.49,-362.51 1961.9,-353.14"/>
+<polygon fill="black" stroke="black" points="1967.07,-344.2 1965.96,-355.11 1964.57,-348.53 1962.07,-352.86 1962.07,-352.86 1962.07,-352.86 1964.57,-348.53 1958.17,-350.61 1967.07,-344.2 1967.07,-344.2"/>
 </g>
 <!-- Cadia Station -->
 <g id="node83" class="node">
 <title>Cadia Station</title>
-<ellipse fill="none" stroke="black" cx="1252" cy="-326" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="1252" y="-322.3" font-family="Times,serif" font-size="14.00">Cadia Station</text>
+<ellipse fill="none" stroke="black" cx="1200" cy="-326" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="1200" y="-322.3" font-family="Times,serif" font-size="14.00">Cadia Station</text>
 </g>
 <!-- Interbay&#45;&gt;Cadia Station -->
 <g id="edge72" class="edge">
 <title>Interbay&#45;&gt;Cadia Station</title>
-<path fill="none" stroke="black" d="M1133.69,-384.14C1155.77,-373.48 1186.57,-358.6 1211.21,-346.7"/>
-<polygon fill="black" stroke="black" points="1220.32,-342.3 1213.27,-350.7 1215.82,-344.47 1211.32,-346.65 1211.32,-346.65 1211.32,-346.65 1215.82,-344.47 1209.36,-342.6 1220.32,-342.3 1220.32,-342.3"/>
+<path fill="none" stroke="black" d="M1125.61,-382.59C1138.57,-372.91 1155.5,-360.26 1169.94,-349.47"/>
+<polygon fill="black" stroke="black" points="1178.1,-343.36 1172.79,-352.96 1174.1,-346.36 1170.09,-349.35 1170.09,-349.35 1170.09,-349.35 1174.1,-346.36 1167.4,-345.75 1178.1,-343.36 1178.1,-343.36"/>
 </g>
 <!-- Samosbor 13 -->
 <g id="node84" class="node">
 <title>Samosbor 13</title>
-<ellipse fill="none" stroke="black" cx="896" cy="-326" rx="71.49" ry="18"/>
-<text text-anchor="middle" x="896" y="-322.3" font-family="Times,serif" font-size="14.00">Samosbor 13</text>
+<ellipse fill="none" stroke="black" cx="844" cy="-326" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="844" y="-322.3" font-family="Times,serif" font-size="14.00">Samosbor 13</text>
 </g>
 <!-- Interbay&#45;&gt;Samosbor 13 -->
 <g id="edge73" class="edge">
 <title>Interbay&#45;&gt;Samosbor 13</title>
-<path fill="none" stroke="black" d="M1070.02,-386.12C1036.31,-374.66 984.94,-357.21 946.74,-344.24"/>
-<polygon fill="black" stroke="black" points="936.84,-340.87 947.75,-339.83 941.57,-342.48 946.3,-344.09 946.3,-344.09 946.3,-344.09 941.57,-342.48 944.86,-348.35 936.84,-340.87 936.84,-340.87"/>
+<path fill="none" stroke="black" d="M1067.26,-387.01C1060.2,-384.99 1052.88,-382.91 1046,-381 997.37,-367.5 941.98,-352.73 901.52,-342.06"/>
+<polygon fill="black" stroke="black" points="891.82,-339.51 902.64,-337.7 896.66,-340.78 901.49,-342.05 901.49,-342.05 901.49,-342.05 896.66,-340.78 900.35,-346.41 891.82,-339.51 891.82,-339.51"/>
 </g>
 <!-- Interpost Hague -->
 <g id="node85" class="node">
 <title>Interpost Hague</title>
-<ellipse fill="none" stroke="black" cx="1073" cy="-326" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="1073" y="-322.3" font-family="Times,serif" font-size="14.00">Interpost Hague</text>
+<ellipse fill="none" stroke="black" cx="1021" cy="-326" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="1021" y="-322.3" font-family="Times,serif" font-size="14.00">Interpost Hague</text>
 </g>
 <!-- Interbay&#45;&gt;Interpost Hague -->
 <g id="edge74" class="edge">
 <title>Interbay&#45;&gt;Interpost Hague</title>
-<path fill="none" stroke="black" d="M1097.42,-381.17C1093.69,-372.9 1089.1,-362.72 1084.92,-353.44"/>
-<polygon fill="black" stroke="black" points="1080.75,-344.2 1088.96,-351.47 1082.81,-348.76 1084.86,-353.32 1084.86,-353.32 1084.86,-353.32 1082.81,-348.76 1080.76,-355.16 1080.75,-344.2 1080.75,-344.2"/>
+<path fill="none" stroke="black" d="M1086.36,-382.24C1075.26,-372.86 1060.96,-360.78 1048.57,-350.31"/>
+<polygon fill="black" stroke="black" points="1040.76,-343.7 1051.3,-346.72 1044.58,-346.93 1048.4,-350.16 1048.4,-350.16 1048.4,-350.16 1044.58,-346.93 1045.49,-353.59 1040.76,-343.7 1040.76,-343.7"/>
 </g>
 <!-- V.O.R.E. Station -->
 <g id="node93" class="node">
 <title>V.O.R.E. Station</title>
-<ellipse fill="none" stroke="black" cx="1591" cy="-326" rx="84.49" ry="18"/>
-<text text-anchor="middle" x="1591" y="-322.3" font-family="Times,serif" font-size="14.00">V.O.R.E. Station</text>
+<ellipse fill="none" stroke="black" cx="1539" cy="-326" rx="84.49" ry="18"/>
+<text text-anchor="middle" x="1539" y="-322.3" font-family="Times,serif" font-size="14.00">V.O.R.E. Station</text>
 </g>
 <!-- Polaris&#45;&gt;V.O.R.E. Station -->
 <g id="edge82" class="edge">
 <title>Polaris&#45;&gt;V.O.R.E. Station</title>
-<path fill="none" stroke="black" d="M1451.88,-385.79C1477.53,-374.95 1515.46,-358.93 1545.24,-346.34"/>
-<polygon fill="black" stroke="black" points="1554.59,-342.39 1547.13,-350.43 1549.99,-344.33 1545.38,-346.28 1545.38,-346.28 1545.38,-346.28 1549.99,-344.33 1543.63,-342.13 1554.59,-342.39 1554.59,-342.39"/>
+<path fill="none" stroke="black" d="M1446.2,-383.8C1462.75,-373.67 1485.3,-359.87 1504.03,-348.4"/>
+<polygon fill="black" stroke="black" points="1512.6,-343.16 1506.42,-352.22 1508.34,-345.77 1504.07,-348.38 1504.07,-348.38 1504.07,-348.38 1508.34,-345.77 1501.72,-344.54 1512.6,-343.16 1512.6,-343.16"/>
 </g>
 <!-- World Server -->
 <g id="node94" class="node">
 <title>World Server</title>
-<ellipse fill="none" stroke="black" cx="1416" cy="-326" rx="72.29" ry="18"/>
-<text text-anchor="middle" x="1416" y="-322.3" font-family="Times,serif" font-size="14.00">World Server</text>
+<ellipse fill="none" stroke="black" cx="1364" cy="-326" rx="72.29" ry="18"/>
+<text text-anchor="middle" x="1364" y="-322.3" font-family="Times,serif" font-size="14.00">World Server</text>
 </g>
 <!-- Polaris&#45;&gt;World Server -->
 <g id="edge83" class="edge">
 <title>Polaris&#45;&gt;World Server</title>
-<path fill="none" stroke="black" d="M1421.31,-380.81C1420.51,-372.79 1419.55,-363.05 1418.67,-354.07"/>
-<polygon fill="black" stroke="black" points="1417.68,-344.03 1423.14,-353.54 1418.17,-349 1418.66,-353.98 1418.66,-353.98 1418.66,-353.98 1418.17,-349 1414.18,-354.42 1417.68,-344.03 1417.68,-344.03"/>
+<path fill="none" stroke="black" d="M1409.61,-381.89C1402.28,-373.07 1393.03,-361.94 1384.79,-352.02"/>
+<polygon fill="black" stroke="black" points="1378.16,-344.04 1388.01,-348.85 1381.35,-347.88 1384.55,-351.73 1384.55,-351.73 1384.55,-351.73 1381.35,-347.88 1381.09,-354.6 1378.16,-344.04 1378.16,-344.04"/>
 </g>
 <!-- Unbound Travels -->
 <g id="node62" class="node">
@@ -1041,20 +1041,20 @@
 <!-- InterStation&#45;Two&#45;&gt;Ava&#39;s Battlegrounds -->
 <g id="edge76" class="edge">
 <title>InterStation&#45;Two&#45;&gt;Ava&#39;s Battlegrounds</title>
-<path fill="none" stroke="black" d="M1832.63,-307.81C1834.33,-299.79 1836.38,-290.05 1838.28,-281.07"/>
-<polygon fill="black" stroke="black" points="1840.4,-271.03 1842.74,-281.74 1839.37,-275.92 1838.34,-280.81 1838.34,-280.81 1838.34,-280.81 1839.37,-275.92 1833.93,-279.88 1840.4,-271.03 1840.4,-271.03"/>
+<path fill="none" stroke="black" d="M1789.63,-307.81C1791.33,-299.79 1793.38,-290.05 1795.28,-281.07"/>
+<polygon fill="black" stroke="black" points="1797.4,-271.03 1799.74,-281.74 1796.37,-275.92 1795.34,-280.81 1795.34,-280.81 1795.34,-280.81 1796.37,-275.92 1790.93,-279.88 1797.4,-271.03 1797.4,-271.03"/>
 </g>
 <!-- Navarro -->
 <g id="node97" class="node">
 <title>Navarro</title>
-<ellipse fill="none" stroke="black" cx="2020" cy="-253" rx="48.99" ry="18"/>
-<text text-anchor="middle" x="2020" y="-249.3" font-family="Times,serif" font-size="14.00">Navarro</text>
+<ellipse fill="none" stroke="black" cx="1977" cy="-253" rx="48.99" ry="18"/>
+<text text-anchor="middle" x="1977" y="-249.3" font-family="Times,serif" font-size="14.00">Navarro</text>
 </g>
 <!-- Soujurn Station&#45;&gt;Navarro -->
 <g id="edge88" class="edge">
 <title>Soujurn Station&#45;&gt;Navarro</title>
-<path fill="none" stroke="black" d="M2020,-307.81C2020,-299.79 2020,-290.05 2020,-281.07"/>
-<polygon fill="black" stroke="black" points="2020,-271.03 2024.5,-281.03 2020,-276.03 2020,-281.03 2020,-281.03 2020,-281.03 2020,-276.03 2015.5,-281.03 2020,-271.03 2020,-271.03"/>
+<path fill="none" stroke="black" d="M1977,-307.81C1977,-299.79 1977,-290.05 1977,-281.07"/>
+<polygon fill="black" stroke="black" points="1977,-271.03 1981.5,-281.03 1977,-276.03 1977,-281.03 1977,-281.03 1977,-281.03 1977,-276.03 1972.5,-281.03 1977,-271.03 1977,-271.03"/>
 </g>
 <!-- TerraGov Marine Corps (TGMC) -->
 <g id="node72" class="node">
@@ -1068,53 +1068,53 @@
 <path fill="none" stroke="red" d="M280.53,-383.46C295.73,-373.65 316.08,-360.51 333.34,-349.37"/>
 <polygon fill="red" stroke="red" points="342.03,-343.76 336.07,-352.97 337.83,-346.47 333.63,-349.19 333.63,-349.19 333.63,-349.19 337.83,-346.47 331.19,-345.4 342.03,-343.76 342.03,-343.76"/>
 </g>
-<!-- BayStation (Pre&#45;r4407) -->
-<g id="node76" class="node">
-<title>BayStation (Pre&#45;r4407)</title>
-<ellipse fill="none" stroke="black" cx="2174" cy="-618" rx="118.08" ry="18"/>
-<text text-anchor="middle" x="2174" y="-614.3" font-family="Times,serif" font-size="14.00">BayStation (Pre&#45;r4407)</text>
-</g>
-<!-- Goonstation (2009 Public SVN)&#45;&gt;BayStation (Pre&#45;r4407) -->
-<g id="edge64" class="edge">
-<title>Goonstation (2009 Public SVN)&#45;&gt;BayStation (Pre&#45;r4407)</title>
-<path fill="none" stroke="black" d="M2000.55,-673.98C2034.64,-663.17 2079.72,-648.88 2115.38,-637.58"/>
-<polygon fill="black" stroke="black" points="2125.17,-634.48 2117,-641.79 2120.41,-635.99 2115.64,-637.5 2115.64,-637.5 2115.64,-637.5 2120.41,-635.99 2114.28,-633.21 2125.17,-634.48 2125.17,-634.48"/>
-</g>
-<!-- Goonstation (2020 Release) -->
-<g id="node78" class="node">
-<title>Goonstation (2020 Release)</title>
-<ellipse fill="none" stroke="black" cx="1030" cy="-618" rx="139.18" ry="18"/>
-<text text-anchor="middle" x="1030" y="-614.3" font-family="Times,serif" font-size="14.00">Goonstation (2020 Release)</text>
-</g>
-<!-- Goonstation (2016 Release)&#45;&gt;Goonstation (2020 Release) -->
-<g id="edge65" class="edge">
-<title>Goonstation (2016 Release)&#45;&gt;Goonstation (2020 Release)</title>
-<path fill="none" stroke="red" d="M1030,-672.81C1030,-664.79 1030,-655.05 1030,-646.07"/>
-<polygon fill="red" stroke="red" points="1030,-636.03 1034.5,-646.03 1030,-641.03 1030,-646.03 1030,-646.03 1030,-646.03 1030,-641.03 1025.5,-646.03 1030,-636.03 1030,-636.03"/>
-</g>
-<!-- T/Goonstation -->
-<g id="node79" class="node">
-<title>T/Goonstation</title>
-<ellipse fill="none" stroke="black" cx="798" cy="-618" rx="75.29" ry="18"/>
-<text text-anchor="middle" x="798" y="-614.3" font-family="Times,serif" font-size="14.00">T/Goonstation</text>
-</g>
-<!-- Goonstation (2016 Release)&#45;&gt;T/Goonstation -->
-<g id="edge66" class="edge">
-<title>Goonstation (2016 Release)&#45;&gt;T/Goonstation</title>
-<path fill="none" stroke="black" d="M978.51,-674.24C941.14,-662.8 890.66,-647.36 852.58,-635.7"/>
-<polygon fill="black" stroke="black" points="842.69,-632.68 853.57,-631.3 847.47,-634.14 852.26,-635.6 852.26,-635.6 852.26,-635.6 847.47,-634.14 850.94,-639.91 842.69,-632.68 842.69,-632.68"/>
-</g>
 <!-- BeeStation Clover -->
-<g id="node81" class="node">
+<g id="node76" class="node">
 <title>BeeStation Clover</title>
-<ellipse fill="none" stroke="black" cx="1282" cy="-618" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="1282" y="-614.3" font-family="Times,serif" font-size="14.00">BeeStation Clover</text>
+<ellipse fill="none" stroke="black" cx="2150" cy="-618" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="2150" y="-614.3" font-family="Times,serif" font-size="14.00">BeeStation Clover</text>
 </g>
 <!-- Goonstation (Open Source)&#45;&gt;BeeStation Clover -->
-<g id="edge67" class="edge">
+<g id="edge64" class="edge">
 <title>Goonstation (Open Source)&#45;&gt;BeeStation Clover</title>
-<path fill="none" stroke="black" d="M1340.36,-672.81C1330.55,-663.76 1318.36,-652.53 1307.67,-642.67"/>
-<polygon fill="black" stroke="black" points="1300.2,-635.78 1310.6,-639.25 1303.88,-639.17 1307.55,-642.56 1307.55,-642.56 1307.55,-642.56 1303.88,-639.17 1304.5,-645.87 1300.2,-635.78 1300.2,-635.78"/>
+<path fill="none" stroke="black" d="M1979.1,-674.15C2013.25,-663.13 2058.83,-648.42 2094.33,-636.97"/>
+<polygon fill="black" stroke="black" points="2104.06,-633.83 2095.92,-641.18 2099.3,-635.36 2094.54,-636.9 2094.54,-636.9 2094.54,-636.9 2099.3,-635.36 2093.16,-632.62 2104.06,-633.83 2104.06,-633.83"/>
+</g>
+<!-- BayStation (Pre&#45;r4407) -->
+<g id="node80" class="node">
+<title>BayStation (Pre&#45;r4407)</title>
+<ellipse fill="none" stroke="black" cx="872" cy="-618" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="872" y="-614.3" font-family="Times,serif" font-size="14.00">BayStation (Pre&#45;r4407)</text>
+</g>
+<!-- Goon 2009 Public SVN&#45;&gt;BayStation (Pre&#45;r4407) -->
+<g id="edge69" class="edge">
+<title>Goon 2009 Public SVN&#45;&gt;BayStation (Pre&#45;r4407)</title>
+<path fill="none" stroke="black" d="M937.62,-673.17C926.56,-664.04 912.71,-652.61 900.59,-642.61"/>
+<polygon fill="black" stroke="black" points="892.53,-635.95 903.11,-638.85 896.39,-639.13 900.24,-642.32 900.24,-642.32 900.24,-642.32 896.39,-639.13 897.38,-645.79 892.53,-635.95 892.53,-635.95"/>
+</g>
+<!-- Goon 2020 Release -->
+<g id="node81" class="node">
+<title>Goon 2020 Release</title>
+<ellipse fill="none" stroke="black" cx="1277" cy="-618" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="1277" y="-614.3" font-family="Times,serif" font-size="14.00">Goon 2020 Release</text>
+</g>
+<!-- Goon 2016 Release&#45;&gt;Goon 2020 Release -->
+<g id="edge70" class="edge">
+<title>Goon 2016 Release&#45;&gt;Goon 2020 Release</title>
+<path fill="none" stroke="red" d="M1277,-672.81C1277,-664.79 1277,-655.05 1277,-646.07"/>
+<polygon fill="red" stroke="red" points="1277,-636.03 1281.5,-646.03 1277,-641.03 1277,-646.03 1277,-646.03 1277,-646.03 1277,-641.03 1272.5,-646.03 1277,-636.03 1277,-636.03"/>
+</g>
+<!-- T/Goonstation -->
+<g id="node82" class="node">
+<title>T/Goonstation</title>
+<ellipse fill="none" stroke="black" cx="1084" cy="-618" rx="75.29" ry="18"/>
+<text text-anchor="middle" x="1084" y="-614.3" font-family="Times,serif" font-size="14.00">T/Goonstation</text>
+</g>
+<!-- Goon 2016 Release&#45;&gt;T/Goonstation -->
+<g id="edge71" class="edge">
+<title>Goon 2016 Release&#45;&gt;T/Goonstation</title>
+<path fill="none" stroke="black" d="M1235.12,-674.59C1204.98,-663.51 1164.24,-648.52 1132.65,-636.9"/>
+<polygon fill="black" stroke="black" points="1123.17,-633.41 1134.1,-632.64 1127.86,-635.13 1132.55,-636.86 1132.55,-636.86 1132.55,-636.86 1127.86,-635.13 1131,-641.08 1123.17,-633.41 1123.17,-633.41"/>
 </g>
 <!-- Revision 4407 (r4407)&#45;&gt;/tg/Station (GPLv3) -->
 <g id="edge84" class="edge">
@@ -1155,74 +1155,74 @@
 <!-- Interpost: Redux -->
 <g id="node86" class="node">
 <title>Interpost: Redux</title>
-<ellipse fill="none" stroke="black" cx="1073" cy="-253" rx="89.08" ry="18"/>
-<text text-anchor="middle" x="1073" y="-249.3" font-family="Times,serif" font-size="14.00">Interpost: Redux</text>
+<ellipse fill="none" stroke="black" cx="1021" cy="-253" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="1021" y="-249.3" font-family="Times,serif" font-size="14.00">Interpost: Redux</text>
 </g>
 <!-- Interpost Hague&#45;&gt;Interpost: Redux -->
 <g id="edge75" class="edge">
 <title>Interpost Hague&#45;&gt;Interpost: Redux</title>
-<path fill="none" stroke="black" d="M1073,-307.81C1073,-299.79 1073,-290.05 1073,-281.07"/>
-<polygon fill="black" stroke="black" points="1073,-271.03 1077.5,-281.03 1073,-276.03 1073,-281.03 1073,-281.03 1073,-281.03 1073,-276.03 1068.5,-281.03 1073,-271.03 1073,-271.03"/>
+<path fill="none" stroke="black" d="M1021,-307.81C1021,-299.79 1021,-290.05 1021,-281.07"/>
+<polygon fill="black" stroke="black" points="1021,-271.03 1025.5,-281.03 1021,-276.03 1021,-281.03 1021,-281.03 1021,-281.03 1021,-276.03 1016.5,-281.03 1021,-271.03 1021,-271.03"/>
 </g>
 <!-- Civilization 13 -->
 <g id="node88" class="node">
 <title>Civilization 13</title>
-<ellipse fill="none" stroke="black" cx="1858" cy="-34" rx="77.19" ry="18"/>
-<text text-anchor="middle" x="1858" y="-30.3" font-family="Times,serif" font-size="14.00">Civilization 13</text>
+<ellipse fill="none" stroke="black" cx="1815" cy="-34" rx="77.19" ry="18"/>
+<text text-anchor="middle" x="1815" y="-30.3" font-family="Times,serif" font-size="14.00">Civilization 13</text>
 </g>
 <!-- Lebensraum&#45;&gt;Civilization 13 -->
 <g id="edge77" class="edge">
 <title>Lebensraum&#45;&gt;Civilization 13</title>
-<path fill="none" stroke="black" d="M1858,-88.81C1858,-80.79 1858,-71.05 1858,-62.07"/>
-<polygon fill="black" stroke="black" points="1858,-52.03 1862.5,-62.03 1858,-57.03 1858,-62.03 1858,-62.03 1858,-62.03 1858,-57.03 1853.5,-62.03 1858,-52.03 1858,-52.03"/>
+<path fill="none" stroke="black" d="M1815,-88.81C1815,-80.79 1815,-71.05 1815,-62.07"/>
+<polygon fill="black" stroke="black" points="1815,-52.03 1819.5,-62.03 1815,-57.03 1815,-62.03 1815,-62.03 1815,-62.03 1815,-57.03 1810.5,-62.03 1815,-52.03 1815,-52.03"/>
 </g>
 <!-- OpenSS13 -->
 <g id="node90" class="node">
 <title>OpenSS13</title>
-<ellipse fill="none" stroke="black" cx="2138" cy="-764" rx="59.29" ry="18"/>
-<text text-anchor="middle" x="2138" y="-760.3" font-family="Times,serif" font-size="14.00">OpenSS13</text>
+<ellipse fill="none" stroke="black" cx="2093" cy="-764" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="2093" y="-760.3" font-family="Times,serif" font-size="14.00">OpenSS13</text>
 </g>
 <!-- BayStation (OpenSS13) -->
 <g id="node91" class="node">
 <title>BayStation (OpenSS13)</title>
-<ellipse fill="none" stroke="black" cx="2244" cy="-691" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="2244" y="-687.3" font-family="Times,serif" font-size="14.00">BayStation (OpenSS13)</text>
+<ellipse fill="none" stroke="black" cx="2204" cy="-691" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="2204" y="-687.3" font-family="Times,serif" font-size="14.00">BayStation (OpenSS13)</text>
 </g>
 <!-- OpenSS13&#45;&gt;BayStation (OpenSS13) -->
 <g id="edge80" class="edge">
 <title>OpenSS13&#45;&gt;BayStation (OpenSS13)</title>
-<path fill="none" stroke="black" d="M2161.26,-747.42C2175.66,-737.77 2194.39,-725.23 2210.38,-714.52"/>
-<polygon fill="black" stroke="black" points="2218.94,-708.78 2213.14,-718.09 2214.79,-711.57 2210.63,-714.35 2210.63,-714.35 2210.63,-714.35 2214.79,-711.57 2208.13,-710.61 2218.94,-708.78 2218.94,-708.78"/>
+<path fill="none" stroke="black" d="M2117.36,-747.42C2132.58,-737.69 2152.41,-725 2169.26,-714.22"/>
+<polygon fill="black" stroke="black" points="2177.76,-708.78 2171.76,-717.96 2173.55,-711.48 2169.34,-714.17 2169.34,-714.17 2169.34,-714.17 2173.55,-711.48 2166.91,-710.38 2177.76,-708.78 2177.76,-708.78"/>
 </g>
 <!-- V.O.R.E. Station&#45;&gt;AEIOU -->
 <g id="edge94" class="edge">
 <title>V.O.R.E. Station&#45;&gt;AEIOU</title>
-<path fill="none" stroke="black" d="M1610.67,-308.17C1621.92,-298.55 1636.15,-286.37 1648.28,-276"/>
-<polygon fill="black" stroke="black" points="1655.89,-269.49 1651.22,-279.41 1652.09,-272.74 1648.29,-275.99 1648.29,-275.99 1648.29,-275.99 1652.09,-272.74 1645.37,-272.57 1655.89,-269.49 1655.89,-269.49"/>
+<path fill="none" stroke="black" d="M1560.34,-308.53C1573.09,-298.69 1589.42,-286.09 1603.17,-275.47"/>
+<polygon fill="black" stroke="black" points="1611.35,-269.17 1606.18,-278.84 1607.39,-272.22 1603.43,-275.28 1603.43,-275.28 1603.43,-275.28 1607.39,-272.22 1600.68,-271.71 1611.35,-269.17 1611.35,-269.17"/>
 </g>
 <!-- Citadel RP -->
 <g id="node102" class="node">
 <title>Citadel RP</title>
-<ellipse fill="none" stroke="black" cx="1405" cy="-253" rx="59.59" ry="18"/>
-<text text-anchor="middle" x="1405" y="-249.3" font-family="Times,serif" font-size="14.00">Citadel RP</text>
+<ellipse fill="none" stroke="black" cx="1362" cy="-253" rx="59.59" ry="18"/>
+<text text-anchor="middle" x="1362" y="-249.3" font-family="Times,serif" font-size="14.00">Citadel RP</text>
 </g>
 <!-- V.O.R.E. Station&#45;&gt;Citadel RP -->
 <g id="edge95" class="edge">
 <title>V.O.R.E. Station&#45;&gt;Citadel RP</title>
-<path fill="none" stroke="black" d="M1551.55,-309.94C1521.92,-298.63 1481.27,-283.11 1450.3,-271.29"/>
-<polygon fill="black" stroke="black" points="1440.62,-267.6 1451.56,-266.96 1445.29,-269.38 1449.96,-271.16 1449.96,-271.16 1449.96,-271.16 1445.29,-269.38 1448.35,-275.37 1440.62,-267.6 1440.62,-267.6"/>
+<path fill="none" stroke="black" d="M1501.03,-309.77C1473.1,-298.57 1435.08,-283.32 1405.86,-271.59"/>
+<polygon fill="black" stroke="black" points="1396.31,-267.76 1407.27,-267.31 1400.95,-269.63 1405.59,-271.49 1405.59,-271.49 1405.59,-271.49 1400.95,-269.63 1403.92,-275.66 1396.31,-267.76 1396.31,-267.76"/>
 </g>
 <!-- Yawn Wider -->
 <g id="node103" class="node">
 <title>Yawn Wider</title>
-<ellipse fill="none" stroke="black" cx="1548" cy="-253" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="1548" y="-249.3" font-family="Times,serif" font-size="14.00">Yawn Wider</text>
+<ellipse fill="none" stroke="black" cx="1505" cy="-253" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="1505" y="-249.3" font-family="Times,serif" font-size="14.00">Yawn Wider</text>
 </g>
 <!-- V.O.R.E. Station&#45;&gt;Yawn Wider -->
 <g id="edge96" class="edge">
 <title>V.O.R.E. Station&#45;&gt;Yawn Wider</title>
-<path fill="none" stroke="black" d="M1580.59,-307.81C1575.47,-299.35 1569.19,-288.98 1563.51,-279.61"/>
-<polygon fill="black" stroke="black" points="1558.31,-271.03 1567.34,-277.25 1560.9,-275.31 1563.49,-279.58 1563.49,-279.58 1563.49,-279.58 1560.9,-275.31 1559.64,-281.91 1558.31,-271.03 1558.31,-271.03"/>
+<path fill="none" stroke="black" d="M1530.77,-307.81C1526.8,-299.53 1521.96,-289.41 1517.54,-280.19"/>
+<polygon fill="black" stroke="black" points="1513.15,-271.03 1521.53,-278.1 1515.31,-275.54 1517.47,-280.05 1517.47,-280.05 1517.47,-280.05 1515.31,-275.54 1513.42,-281.99 1513.15,-271.03 1513.15,-271.03"/>
 </g>
 <!-- SS13 (Pre Open) -->
 <g id="node98" class="node">
@@ -1235,26 +1235,26 @@
 <title>SS13 (Pre Open)&#45;&gt;Goonstation</title>
 <path fill="none" stroke="black" d="M1763.86,-844.5C1744.12,-829.1 1714.46,-805.95 1692.23,-788.6"/>
 <polygon fill="black" stroke="black" points="1684.11,-782.26 1694.76,-784.86 1688.05,-785.33 1692,-788.41 1692,-788.41 1692,-788.41 1688.05,-785.33 1689.23,-791.96 1684.11,-782.26 1684.11,-782.26"/>
-<text text-anchor="middle" x="1835" y="-803.8" font-family="Times,serif" font-size="14.00">Gibbed&#39;s Source Decompilation</text>
+<text text-anchor="middle" x="1808" y="-803.8" font-family="Times,serif" font-size="14.00">Gibbed&#39;s Decompilation</text>
 </g>
 <!-- SS13 (Pre Open)&#45;&gt;OpenSS13 -->
 <g id="edge90" class="edge">
 <title>SS13 (Pre Open)&#45;&gt;OpenSS13</title>
-<path fill="none" stroke="black" d="M1835.58,-847.25C1902.03,-829.17 2018.19,-797.58 2085.56,-779.26"/>
-<polygon fill="black" stroke="black" points="2095.54,-776.55 2087.07,-783.51 2090.71,-777.86 2085.89,-779.17 2085.89,-779.17 2085.89,-779.17 2090.71,-777.86 2084.71,-774.83 2095.54,-776.55 2095.54,-776.55"/>
-<text text-anchor="middle" x="2117.5" y="-803.8" font-family="Times,serif" font-size="14.00">Hobnob&#39;s Source Decompilation</text>
+<path fill="none" stroke="black" d="M1831.11,-846.63C1888.06,-828.88 1984.57,-798.8 2043.18,-780.53"/>
+<polygon fill="black" stroke="black" points="2052.96,-777.48 2044.75,-784.75 2048.18,-778.97 2043.41,-780.46 2043.41,-780.46 2043.41,-780.46 2048.18,-778.97 2042.07,-776.16 2052.96,-777.48 2052.96,-777.48"/>
+<text text-anchor="middle" x="2062.5" y="-803.8" font-family="Times,serif" font-size="14.00">Hobnob&#39;s Decompilation</text>
 </g>
 <!-- CHOMPstation -->
 <g id="node104" class="node">
 <title>CHOMPstation</title>
-<ellipse fill="none" stroke="black" cx="1495" cy="-180" rx="79.89" ry="18"/>
-<text text-anchor="middle" x="1495" y="-176.3" font-family="Times,serif" font-size="14.00">CHOMPstation</text>
+<ellipse fill="none" stroke="black" cx="1452" cy="-180" rx="79.89" ry="18"/>
+<text text-anchor="middle" x="1452" y="-176.3" font-family="Times,serif" font-size="14.00">CHOMPstation</text>
 </g>
 <!-- Yawn Wider&#45;&gt;CHOMPstation -->
 <g id="edge98" class="edge">
 <title>Yawn Wider&#45;&gt;CHOMPstation</title>
-<path fill="none" stroke="black" d="M1535.44,-235.17C1529,-226.55 1521.02,-215.86 1513.86,-206.27"/>
-<polygon fill="black" stroke="black" points="1507.84,-198.2 1517.43,-203.52 1510.83,-202.21 1513.82,-206.21 1513.82,-206.21 1513.82,-206.21 1510.83,-202.21 1510.21,-208.9 1507.84,-198.2 1507.84,-198.2"/>
+<path fill="none" stroke="black" d="M1492.44,-235.17C1486,-226.55 1478.02,-215.86 1470.86,-206.27"/>
+<polygon fill="black" stroke="black" points="1464.84,-198.2 1474.43,-203.52 1467.83,-202.21 1470.82,-206.21 1470.82,-206.21 1470.82,-206.21 1467.83,-202.21 1467.21,-208.9 1464.84,-198.2 1464.84,-198.2"/>
 </g>
 </g>
 </svg>
