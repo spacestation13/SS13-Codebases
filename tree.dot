@@ -131,7 +131,6 @@ digraph G {
 		"CEV Eris"                      -> "NEV Northern Light"
 		"CEV Eris"                      -> "InterStation-Two"
 		"CEV Eris"                      -> "Soujurn Station"
-		"Citadel Main"                  -> "BurgerStation 13"
 		"Citadel Main"                  -> "HyperStation"
 		"Citadel Main"                  -> "Skyrat 13"
 		"Colonial Marines"              -> "DM;CA"
