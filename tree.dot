@@ -141,14 +141,14 @@ digraph G {
 		"DM;CA"                         -> "TerraGov Marine Corps (TGMC)" [color = red]
 		"FacePunch"                     -> "Corporate Mercenaries"
 		"Fallout 13"                    -> "Desert Rose"
-		"Goonstation (2009 Public SVN)" -> "BayStation (Pre-r4407)"
-		"Goonstation (2016 Release)"    -> "Goonstation (2020 Release)" [color = red]
-		"Goonstation (2016 Release)"    -> "T/Goonstation"
 		"Goonstation (Open Source)"     -> "BeeStation Clover"
-		"Goonstation"                   -> "Goonstation (2009 Public SVN)" [color = red]
-		"Goonstation"                   -> "Goonstation (2016 Release)" [color = red]
+		"Goonstation"                   -> "Goon 2009 Public SVN" [color = red]
+		"Goonstation"                   -> "Goon 2016 Release" [color = red]
 		"Goonstation"                   -> "Goonstation (Open Source)" [color = red]
 		"Goonstation"                   -> "Revision 4407 (r4407)" [color = red]
+		"Goon 2009 Public SVN"          -> "BayStation (Pre-r4407)"
+		"Goon 2016 Release"             -> "Goon 2020 Release" [color = red]
+		"Goon 2016 Release"             -> "T/Goonstation"
 		"Interbay"                      -> "Cadia Station"
 		"Interbay"                      -> "Samosbor 13"
 		"Interbay"                      -> "Interpost Hague"
@@ -166,8 +166,8 @@ digraph G {
 		"Revision 4407 (r4407)"         -> "D2K5"
 		"Revision 4407 (r4407)"         -> "Mars Station 42"
 		"Soujurn Station"               -> "Navarro"
-		"SS13 (Pre Open)"               -> "Goonstation" [label = "Gibbed's Source Decompilation"]
-		"SS13 (Pre Open)"               -> "OpenSS13" [label = "Hobnob's Source Decompilation"]
+		"SS13 (Pre Open)"               -> "Goonstation" [label = "Gibbed's Decompilation"]
+		"SS13 (Pre Open)"               -> "OpenSS13" [label = "Hobnob's Decompilation"]
 		"Stalker Project"               -> "Ashen Sky"
 		"Star Trek 13"                  -> "Deep Space 13" [color = red]
 		"Unbound Travels"               -> "Aphelion Project"
