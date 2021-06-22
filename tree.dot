@@ -7,9 +7,6 @@ digraph G {
 	rankdir  = "LB"
 	bgcolor  = lightgray
 
-	graph [compound = true]
-	edge [arrowhead = vee, arrowtail=vee, splines=curved]
-
 	subgraph cluster_map
 	{
 		subgraph cluster_note
