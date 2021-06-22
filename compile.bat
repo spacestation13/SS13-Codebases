@@ -1,7 +1,3 @@
-dot -Tsvg tree.dot > tree.svg
-dot -Tpng tree.dot > tree.png
-
-
 @ECHO OFF
 
 WHERE DOT.EXE
