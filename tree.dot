@@ -107,7 +107,6 @@ digraph G {
 		"AEIOU"                         -> "Eclipse Station" [color = red]
 		"Aurora (Old)"                  -> "Aurora Station" [color = red]
 		"Ava's Battlegrounds"           -> "No Mans's Land"
-		"BayStation (AGPL)"             -> "KaiserBay"
 		"BayStation (AGPL)"             -> "Nebula"
 		"BayStation (AGPL)"             -> "Aurora Station"
 		"BayStation (AGPL)"             -> "CEV Eris"
