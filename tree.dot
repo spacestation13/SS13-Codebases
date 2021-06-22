@@ -1,98 +1,179 @@
-digraph  G {
-	label = "SS13 Codebases Circa Late 2020"
-	labelloc="top"
-	
+digraph G {
+	// Attributes
+	color    = "black"
+	fontname = "Arial"
+	fontsize = 14
+	ratio    = "auto"
+	rankdir  = "LB"
+	bgcolor  = lightgray
 
-	// info boxes
-	"Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand." [shape=rectangle]
+	subgraph cluster_map
+	{
+		subgraph cluster_note
+		{
+			// Attributes
+			label    = "Notes"
+			style    = "dotted"
+			rankdir  = "LB"
+			compound = false
+			rank     = same
 
-	"BurgerStation"
-	"SS13 (Pre Open)" -> "Source Decompilation (OpenSS13)"
-	"Source Decompilation (OpenSS13)"
-	"SS13 (Pre Open)" -> "Goonstation"
-	"Goonstation" -> "Goon 2009 Public SVN" [color=red]
-	"Goon 2009 Public SVN" -> "Baystation Pre-r4407"
-	"Goonstation" -> "Revision 4407 (r4407)" [color=red]
-	"Goonstation" -> "Goon 2016 Release" [color=red]
-	"Goon 2016 Release" -> "T/Goonstation"
-	"Goon 2016 Release" -> "Goon 2020 Release" [color=red]
-	"Goonstation" -> "Goonstation (Open Source)" [color=red]
-	"Goonstation (Open Source)" -> "BeeStation Clover"	
-	"Revision 4407 (r4407)" -> "/tg/Station (Pre-AGPL)"
-	"Revision 4407 (r4407)" -> "BayStation (Luna)"
-	"Revision 4407 (r4407)" -> "D2K5"
-	"Revision 4407 (r4407)" -> "Mars Station 42"
-	"BayStation (Luna)" -> "Lifeweb"
-	"/tg/Station (Pre-AGPL)" -> "/tg/Station (AGPL)" [color=red]
-	"/tg/Station (Pre-AGPL)" -> "BayStation (GPL)"
-	"/tg/Station (Pre-AGPL)" -> "Old HippieStation"
-	"/tg/Station (Pre-AGPL)" -> "Old YogStation"
-	"/tg/Station (Pre-AGPL)" -> "NTStation"
-	"/tg/Station (Pre-AGPL)" -> "Traitor Death Match"
-	"/tg/Station (Pre-AGPL)" -> "Archangel"
-	"/tg/Station (Pre-AGPL)" -> "FacePunch"
-	"NTStation" -> "D20 Station"
-	"FacePunch" -> "Corporate Mercenaries"
-	"BayStation (GPL)" -> "/vg/Station"
-	"BayStation (GPL)" -> "Paradise"
-	"Paradise" -> "Persistence SS13 (Old)"
-	"BayStation (GPL)" -> "RocketStation42"
-	"BayStation (GPL)" -> "BestRP"
-	"BayStation (GPL)" -> "Tau Ceti"
-	"BayStation (GPL)" -> "Aurora (Old)"
-	"Aurora (Old)" -> "Aurora Station" [color=red]
-	"BayStation (GPL)" -> "Colonial Marines"
-	"Colonial Marines" -> "DM;CA"
-	"DM;CA" -> "TGMC" [color=red]
-	"BayStation (GPL)" -> "BayStation (AGPL)" [color=red]
-	"/tg/Station (AGPL)" -> "YogStation"
-	"YogStation" -> "Old FTL13"
-	"Old FTL13" -> "FTL13" [color=red]
-	"/tg/Station (AGPL)" -> "Fulpstation"
-	"/tg/Station (AGPL)" -> "FTL13"
-	"/tg/Station (AGPL)" -> "Fallout 13"
-	"Fallout 13" -> "Desert Rose"
-	"/tg/Station (AGPL)" -> "BeeStation"
-	"BeeStation" -> "NSV13"
-	"BeeStation" -> "Austation"
-	"/tg/Station (AGPL)" -> "WaspStation"
-	"WaspStation" -> "Boomer Station" [color=red]
-	"/tg/Station (AGPL)" -> "HippieStation"
-	"/tg/Station (AGPL)" -> "Citadel Main"
-	"Citadel Main" -> "HyperStation"
-	"Citadel Main" -> "Skyrat 13"
-	"/tg/Station (AGPL)" -> "Toolbox Station"
-	"/tg/Station (AGPL)" -> "OracleStation"
-	"/tg/Station (AGPL)" -> "Sunset Station"
-	"/tg/Station (AGPL)" -> "Star Trek 13"
-	"Star Trek 13" -> "Deep Space 13" [color=red]
-	"/tg/Station (AGPL)" -> "Apollo Station"
-	"/tg/Station (AGPL)" -> "Mojave Sun"
-	"BayStation (AGPL)" -> "Persistence (New)"
-	"BayStation (AGPL)" -> "Europa Station"
-	"BayStation (AGPL)" -> "SCP-13"
-	"BayStation (AGPL)" -> "Halo: Space Station Evolved"
-	"BayStation (AGPL)" -> "Dead Space 13"
-	"BayStation (AGPL)" -> "Aurora Station"
-	"BayStation (AGPL)" -> "Urist McStation"
-	"BayStation (AGPL)" -> "Polaris"
-	"Polaris" -> "World Server"
-	"BayStation (AGPL)" -> "CEV Eris"
-	"CEV Eris" -> "InterStation-Two"
-	"InterStation-Two" -> "Ava's Battlegrounds"
-	"Ava's Battlegrounds" -> "No Mans's Land" [color=red]
-	"No Mans's Land" -> "Lebensraum" [color=red]
-	"Lebensraum" -> "Civilization 13" [color=red]
-	"BayStation (AGPL)" -> "Interbay"
-	"Interbay" -> "Interpost Hague"
-	"Polaris" -> "V.O.R.E. Station"
-	"V.O.R.E. Station" -> "Citadel RP"
-	"V.O.R.E. Station" -> "Yawn Wider"
-	"Yawn Wider" -> "CHOMPstation"
-	"V.O.R.E. Station" -> "AEIOU"
-	"AEIOU" -> "Eclipse Station" [color=red]
-	"SS14"
-	"UnityStation"
-	"SS3D"
-	"SS3D" -> "RE:SS3D"
+			node [
+				shape    = rectangle,
+				fontsize = 14,
+				minlen = 1
+			]
+			edge [
+				constraint = false
+			]
+
+			// Notes
+			note1 [
+				label  = "Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand.\l",
+				width  = 4.5,
+				height = .8
+			]
+			note2 [
+				label  = < <b><u><font color="blue">GitHub source <br align="center"/>repository</font></u></b> >,
+				URL    = "https://github.com/CthulhuOnIce/SS13-Codebases",
+				width  = 1.5,
+				height = .8
+			]
+		}
+
+		subgraph cluster_not_ss13
+		{
+			// Attributes
+			label    = "Non-SS13 Derived Codebases"
+			style    = "dotted"
+
+			node [
+				shape    = rectangle,
+				minlen   = 1
+			]
+			edge [
+				constraint = false
+			]
+
+			// Non-SS13 Codebases
+			"BurgerStation"
+			"Space Station 14"
+			"UnityStation"
+			"SS3D"
+			"SS3D" -> "RE:SS3D"
+
+		}
+
+		// Attributes
+		label    = "SS13 Codebases Circa Mid 2021"
+		labelloc = "top"
+
+		// Root codebases
+		"Goonstation" [shape = rectangle, color = blue]
+		"/tg/Station (GPLv3)" [shape = rectangle, color = blue]
+		"/tg/Station (AGPL)" [shape = rectangle, color = blue]
+		"BayStation (GPL)" [shape = rectangle, color = blue]
+		"BayStation (AGPL)" [shape = rectangle, color = blue]
+
+		// Edges
+		"/tg/Station (AGPL)"            -> "Sigma"
+		"/tg/Station (AGPL)"            -> "Stalker Project"
+		"/tg/Station (AGPL)"            -> "Apollo Station"
+		"/tg/Station (AGPL)"            -> "BeeStation"
+		"/tg/Station (AGPL)"            -> "Citadel Main"
+		"/tg/Station (AGPL)"            -> "Fallout 13"
+		"/tg/Station (AGPL)"            -> "FTL13"
+		"/tg/Station (AGPL)"            -> "HippieStation"
+		"/tg/Station (AGPL)"            -> "Mojave Sun"
+		"/tg/Station (AGPL)"            -> "OracleStation"
+		"/tg/Station (AGPL)"            -> "Star Trek 13"
+		"/tg/Station (AGPL)"            -> "Sunset Station"
+		"/tg/Station (AGPL)"            -> "Toolbox Station"
+		"/tg/Station (AGPL)"            -> "WaspStation"
+		"/tg/Station (AGPL)"            -> "YogStation"
+		"/tg/Station (GPLv3)"           -> "FreeTG Station"
+		"/tg/Station (GPLv3)"           -> "/tg/Station (AGPL)" [color = red]
+		"/tg/Station (GPLv3)"           -> "Archangel"
+		"/tg/Station (GPLv3)"           -> "BayStation (GPL)"
+		"/tg/Station (GPLv3)"           -> "FacePunch"
+		"/tg/Station (GPLv3)"           -> "FTL13 (Old)"
+		"/tg/Station (GPLv3)"           -> "HippieStation (Old)"
+		"/tg/Station (GPLv3)"           -> "NTStation"
+		"/tg/Station (GPLv3)"           -> "Traitor Death Match"
+		"/tg/Station (GPLv3)"           -> "YogStation (Old)"
+		"AEIOU"                         -> "Eclipse Station" [color = red]
+		"Aurora (Old)"                  -> "Aurora Station" [color = red]
+		"Ava's Battlegrounds"           -> "No Mans's Land"
+		"BayStation (AGPL)"             -> "Nebula"
+		"BayStation (AGPL)"             -> "Aurora Station"
+		"BayStation (AGPL)"             -> "CEV Eris"
+		"BayStation (AGPL)"             -> "Dead Space 13"
+		"BayStation (AGPL)"             -> "Europa Station"
+		"BayStation (AGPL)"             -> "Halo: Space Station Evolved"
+		"BayStation (AGPL)"             -> "Interbay"
+		"BayStation (AGPL)"             -> "Persistence (New)"
+		"BayStation (AGPL)"             -> "Polaris"
+		"BayStation (AGPL)"             -> "SCP-13"
+		"BayStation (AGPL)"             -> "Urist McStation"
+		"BayStation (GPL)"              -> "/vg/Station"
+		"BayStation (GPL)"              -> "Aurora (Old)"
+		"BayStation (GPL)"              -> "BayStation (AGPL)" [color = red]
+		"BayStation (GPL)"              -> "BestRP"
+		"BayStation (GPL)"              -> "Colonial Marines"
+		"BayStation (GPL)"              -> "Paradise"
+		"BayStation (GPL)"              -> "RocketStation42"
+		"BayStation (GPL)"              -> "Tau Ceti"
+		"BayStation (Luna)"             -> "Lifeweb"
+		"BeeStation"                    -> "Austation"
+		"BeeStation"                    -> "NSV13"
+		"BestRP"                        -> "Unbound Travels"
+		"Boomer Station"                -> "White Sands" [color = red]
+		"CEV Eris"                      -> "NEV Northern Light"
+		"CEV Eris"                      -> "InterStation-Two"
+		"CEV Eris"                      -> "Soujurn Station"
+		"Citadel Main"                  -> "BurgerStation 13"
+		"Citadel Main"                  -> "HyperStation"
+		"Citadel Main"                  -> "Skyrat 13"
+		"Colonial Marines"              -> "DM;CA"
+		"DM;CA"                         -> "TerraGov Marine Corps (TGMC)" [color = red]
+		"FacePunch"                     -> "Corporate Mercenaries"
+		"Fallout 13"                    -> "Desert Rose"
+		"Goonstation (Open Source)"     -> "BeeStation Clover"
+		"Goonstation"                   -> "Goon 2009 Public SVN" [color = red]
+		"Goonstation"                   -> "Goon 2016 Release" [color = red]
+		"Goonstation"                   -> "Goonstation (Open Source)" [color = red]
+		"Goonstation"                   -> "Revision 4407 (r4407)" [color = red]
+		"Goon 2009 Public SVN"          -> "BayStation (Pre-r4407)"
+		"Goon 2016 Release"             -> "Goon 2020 Release" [color = red]
+		"Goon 2016 Release"             -> "T/Goonstation"
+		"Interbay"                      -> "Cadia Station"
+		"Interbay"                      -> "Samosbor 13"
+		"Interbay"                      -> "Interpost Hague"
+		"Interpost Hague"               -> "Interpost: Redux"
+		"InterStation-Two"              -> "Ava's Battlegrounds"
+		"Lebensraum"                    -> "Civilization 13"
+		"No Mans's Land"                -> "Lebensraum"
+		"NTStation"                     -> "D20 Station"
+		"OpenSS13"                      -> "BayStation (OpenSS13)"
+		"Paradise"                      -> "Persistence SS13 (Old)"
+		"Polaris"                       -> "V.O.R.E. Station"
+		"Polaris"                       -> "World Server"
+		"Revision 4407 (r4407)"         -> "/tg/Station (GPLv3)"
+		"Revision 4407 (r4407)"         -> "BayStation (Luna)"
+		"Revision 4407 (r4407)"         -> "D2K5"
+		"Revision 4407 (r4407)"         -> "Mars Station 42"
+		"Soujurn Station"               -> "Navarro"
+		"SS13 (Pre Open)"               -> "Goonstation" [label = "Gibbed's Decompilation"]
+		"SS13 (Pre Open)"               -> "OpenSS13" [label = "Hobnob's Decompilation"]
+		"Stalker Project"               -> "Ashen Sky"
+		"Star Trek 13"                  -> "Deep Space 13" [color = red]
+		"Unbound Travels"               -> "Aphelion Project"
+		"V.O.R.E. Station"              -> "AEIOU"
+		"V.O.R.E. Station"              -> "Citadel RP"
+		"V.O.R.E. Station"              -> "Yawn Wider"
+		"WaspStation"                   -> "Boomer Station" [color = red]
+		"Yawn Wider"                    -> "CHOMPstation"
+		"YogStation"                    -> "Fulpstation"
+	}
 }
+
