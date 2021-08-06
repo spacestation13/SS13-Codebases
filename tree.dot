@@ -35,7 +35,7 @@ digraph G {
 			]
 			note2 [
 				label  = < <b><u><font color="blue">GitHub source <br align="center"/>repository</font></u></b> >,
-				URL    = "https://github.com/CthulhuOnIce/SS13-Codebases",
+				URL    = "https://github.com/spacestation13/SS13-Codebases",
 				width  = 1.5,
 				height = .8
 			]
@@ -171,6 +171,7 @@ digraph G {
 		"V.O.R.E. Station"              -> "Citadel RP"
 		"V.O.R.E. Station"              -> "Yawn Wider"
 		"WaspStation"                   -> "Boomer Station" [color = red]
+		"White Sands"                   -> "Shiptest"
 		"Yawn Wider"                    -> "CHOMPstation"
 		"YogStation"                    -> "Fulpstation"
 	}
