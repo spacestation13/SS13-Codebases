@@ -109,12 +109,15 @@ digraph G {
 		"/tg/Station (GPLv3)"           -> "White Dream"
 		"/vg/Station"                   -> "Green (/vg/)"
 		"/vg/Station"                   -> "Orange SS13"
+		"/vg/Station"                   -> "Indigo Special"
 		"AEIOU"                         -> "Eclipse Station" [color = red]
 		"Animus (AGPL)"                 -> "Blue Admiralty Torch"
 		"Animus (AGPL)"                 -> "Chaotic Onyx"
+		"Animus (AGPL)"                 -> "Yellow"
 		"Animus (GPL)"                  -> "Animus (AGPL)" [color = red]
 		"Animus (GPL)"                  -> "Hot Blue"
 		"Animus (GPL)"                  -> "Old Blue Bay"
+		"Animus (GPL)"                  -> "Yellow (Old)"
 		"Aurora (Old)"                  -> "Aurora Station" [color = red]
 		"Ava's Battlegrounds (IS2)"     -> "No Mans's Land"
 		"Ava's Battlegrounds (IS2)"     -> "Ava's Battlegrounds (Prishtina)" [color = red]
@@ -192,6 +195,7 @@ digraph G {
 		"No Mans's Land"                -> "Lebensraum"
 		"November"                      -> "Lifeweb" [color = red]
 		"NTStation"                     -> "D20 Station"
+		"NTStation"                     -> "Animus (NT)"
 		"Sygyzy Station"                -> "Occulus"
 		"OpenSS13"                      -> "BayStation (OpenSS13)"
 		"Orange SS13"                   -> "Green (Orange)"
@@ -220,6 +224,7 @@ digraph G {
 		"White Sands"                   -> "Shiptest"
 		"Yawn Wider"                    -> "CHOMPstation"
 		"YogStation"                    -> "Fulpstation"
+		"Yellow (Old)"                  -> "Yellow" [color = red]
 	}
 }
 
