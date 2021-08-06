@@ -111,6 +111,7 @@ digraph G {
 		"/vg/Station"                   -> "Orange SS13"
 		"AEIOU"                         -> "Eclipse Station" [color = red]
 		"Animus (AGPL)"                 -> "Blue Admiralty Torch"
+		"Animus (AGPL)"                 -> "Chaotic Onyx"
 		"Animus (GPL)"                  -> "Animus (AGPL)" [color = red]
 		"Animus (GPL)"                  -> "Hot Blue"
 		"Animus (GPL)"                  -> "Old Blue Bay"
