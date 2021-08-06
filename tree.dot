@@ -217,7 +217,7 @@ digraph G {
 		"V.O.R.E. Station"              -> "Yawn Wider"
 		"WaspStation"                   -> "Boomer Station" [color = red]
 		"White Dream"                   -> "White Bay" [color = red]
-		"White Sands"                   -> "ShipTest"
+		"White Sands"                   -> "Shiptest"
 		"Yawn Wider"                    -> "CHOMPstation"
 		"YogStation"                    -> "Fulpstation"
 	}
