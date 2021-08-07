@@ -153,7 +153,6 @@ digraph G {
 		"Lebensraum"                    -> "Civilization 13"
 		"No Mans's Land"                -> "Lebensraum"
 		"NTStation"                     -> "D20 Station"
-		"OpenSS13"                      -> "BayStation (OpenSS13)"
 		"Paradise"                      -> "Persistence SS13 (Old)"
 		"Polaris"                       -> "V.O.R.E. Station"
 		"Polaris"                       -> "World Server"
