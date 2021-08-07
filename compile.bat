@@ -12,10 +12,10 @@ CD /D %CD%
 DOT.EXE -V
 
 ECHO .svg generating..
-DOT.EXE -Tsvg ".\tree.dot" > ".\out\tree.svg"
+DOT.EXE -Tsvg ".\tree.dot" > ".\tree.svg"
 
 ECHO .png generating..
-DOT.EXE -Tpng ".\tree.dot" > ".\out\tree.png"
+DOT.EXE -Tpng ".\tree.dot" > ".\tree.png"
 
 TIMEOUT /t 10
 @REM PAUSE
