@@ -94,6 +94,7 @@ digraph G {
 		"/tg/Station (AGPL)"            -> "Tegustation (Old)"
 		"/tg/Station (AGPL)"            -> "WaspStation"
 		"/tg/Station (AGPL)"            -> "YogStation"
+		"/tg/Station (AGPL)"            -> "Fulpstation"
 		"/tg/Station (GPLv3)"           -> "FreeTG Station"
 		"/tg/Station (GPLv3)"           -> "/tg/Station (AGPL)" [color = red]
 		"/tg/Station (GPLv3)"           -> "Archangel"
@@ -223,7 +224,6 @@ digraph G {
 		"White Dream"                   -> "White Bay" [color = red]
 		"White Sands"                   -> "Shiptest"
 		"Yawn Wider"                    -> "CHOMPstation"
-		"YogStation"                    -> "Fulpstation"
 		"Yellow (Old)"                  -> "Yellow" [color = red]
 	}
 }
