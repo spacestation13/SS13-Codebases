@@ -91,7 +91,6 @@ digraph G {
 		"/tg/Station (AGPL)"            -> "Star Trek 13"
 		"/tg/Station (AGPL)"            -> "Sunset Station"
 		"/tg/Station (AGPL)"            -> "Toolbox Station"
-		"/tg/Station (AGPL)"            -> "Tegustation (Old)"
 		"/tg/Station (AGPL)"            -> "WaspStation"
 		"/tg/Station (AGPL)"            -> "YogStation"
 		"/tg/Station (GPLv3)"           -> "FreeTG Station"
@@ -172,6 +171,7 @@ digraph G {
 		"Fallout 13"                    -> "Desert Rose"
 		"Fallout 13 (Old)"              -> "Fallout 13" [color = red]
 		"Fallout 13 (Old)"              -> "WASTELANDS: Lost Day"
+		"Fulpstation"                   -> "Tegustation (Old)"
 		"Goonstation (Open Source)"     -> "BeeStation Clover"
 		"Goonstation"                   -> "Goon 2009 Public SVN" [color = red]
 		"Goonstation"                   -> "Goon 2016 Release" [color = red]
