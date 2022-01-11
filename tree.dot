@@ -147,6 +147,7 @@ digraph G {
 		"BayStation (GPL)"              -> "Black Tyranny"
 		"BayStation (GPL)"              -> "BestRP"
 		"BayStation (GPL)"              -> "Colonial Marines"
+		"BayStation (GPL)"              -> "Hypatia"
 		"BayStation (GPL)"              -> "Paradise"
 		"BayStation (GPL)"              -> "Prishtina"
 		"BayStation (GPL)"              -> "Project Misery"
@@ -192,6 +193,7 @@ digraph G {
 		"InterStation-Two"              -> "Ava's Battlegrounds (IS2)"
 		"Lawful Green"                  -> "Green (/vg/)"
 		"Lebensraum"                    -> "Civilization 13"
+		"Nebula"                        -> "Argos"
 		"Nebula"                        -> "Hestia"
 		"No Mans's Land"                -> "Lebensraum"
 		"November"                      -> "Lifeweb" [color = red]
