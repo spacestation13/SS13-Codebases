@@ -8,9 +8,9 @@ then
 fi
 
 echo ".svg generating.."
-dot -Tsvg "./tree.dot" > "./out/tree.svg"
+dot -Tsvg "./tree.dot" > "./tree.svg"
 
 echo ".png generating.."
-dot -Tpng "./tree.dot" > "./out/tree.png"
+dot -Tpng "./tree.dot" > "./tree.png"
 
 exit 0
