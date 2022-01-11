@@ -180,6 +180,7 @@ digraph G {
 		"Goonstation"                   -> "Goonstation (Open Source)" [color = red]
 		"Goonstation"                   -> "Revision 4407 (r4407)" [color = red]
 		"Goon 2009 Public SVN"          -> "BayStation (Pre-r4407)"
+		"Goon 2009 Public SVN"          -> "Vagabond Station 13"
 		"Goon 2016 Release"             -> "Goon 2020 Release" [color = red]
 		"Goon 2016 Release"             -> "T/Goonstation"
 		"Green (/vg/)"                  -> "Green (Orange)" [color = red]
