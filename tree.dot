@@ -201,7 +201,6 @@ digraph G {
 		"NTStation"                     -> "D20 Station"
 		"NTStation"                     -> "Animus (NT)"
 		"Sygyzy Station"                -> "Occulus"
-		"OpenSS13"                      -> "BayStation (OpenSS13)"
 		"Orange SS13"                   -> "Green (Orange)"
 		"Paradise"                      -> "Persistence SS13 (Old)"
 		"Polaris"                       -> "V.O.R.E. Station"
