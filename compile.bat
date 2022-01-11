@@ -12,10 +12,12 @@ CD /D %CD%
 DOT.EXE -V
 
 ECHO .svg generating..
-DOT.EXE -Tsvg ".\tree.dot" > ".\tree.svg"
+unflatten.exe -f -l 4 -o ".\tree-temp.dot"./tree.dot
+DOT.EXE -Tsvg ".\tree-temp.dot" > ".\tree.svg"
 
 ECHO .png generating..
-DOT.EXE -Tpng ".\tree.dot" > ".\tree.png"
+unflatten.exe -f -l 4 -o ".\tree-temp.dot"./tree.dot
+DOT.EXE -Tpng ".\tree-temp.dot" > ".\tree.png"
 
 TIMEOUT /t 10
 @REM PAUSE

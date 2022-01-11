@@ -4,8 +4,10 @@ digraph G {
 	fontname = "Arial"
 	fontsize = 14
 	ratio    = "auto"
-	rankdir  = "LB"
+	rankdir  = "TB"
 	bgcolor  = lightgray
+	ranksep  = 1.5
+	concentrate = true
 
 	subgraph cluster_map
 	{
@@ -14,7 +16,7 @@ digraph G {
 			// Attributes
 			label    = "Notes"
 			style    = "dotted"
-			rankdir  = "LB"
+			rankdir  = "LR"
 			compound = false
 			rank     = same
 

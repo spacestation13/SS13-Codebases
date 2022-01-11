@@ -8,9 +8,9 @@ then
 fi
 
 echo ".svg generating.."
-dot -Tsvg "./tree.dot" > "./tree.svg"
+unflatten -f -l 4 ./tree.dot | dot -Tsvg > "./tree.svg"
 
 echo ".png generating.."
-dot -Tpng "./tree.dot" > "./tree.png"
+unflatten -f -l 4 ./tree.dot | dot -Tpng > "./tree.png"
 
 exit 0
