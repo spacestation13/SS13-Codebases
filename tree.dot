@@ -166,7 +166,12 @@ digraph G {
 		"CEV Eris"                      -> "InterStation-Two"
 		"CEV Eris"                      -> "Soujurn Station"
 		"Citadel Main"                  -> "HyperStation"
-		"Citadel Main"                  -> "Skyrat 13"
+		"Citadel Main"                  -> "Skyrat 13 (Old)"
+		"Skyrat 13 (Old)"				-> "Skyrat Main" [color = red]
+		"/tg/Station (AGPL)"			-> "Skyrat Main"
+		"Skyrat Main"					-> "Tannhauser Gate"
+		"Skyrat Main"					-> "Nebula Station 13"
+		"Skyrat Main"					-> "Fluffy Frontier"
 		"Colonial Marines"              -> "DM;CA"
 		"DM;CA"                         -> "TerraGov Marine Corps (TGMC)" [color = red]
 		"Euphoria"                      -> "Space Station V" [color = red]
