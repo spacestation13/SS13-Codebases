@@ -182,6 +182,7 @@ digraph G {
 		"Fallout 13 (Old)"              -> "Fallout 13" [color = red]
 		"Fallout 13 (Old)"              -> "WASTELANDS: Lost Day"
 		"Goonstation (Open Source)"     -> "BeeStation Clover"
+		"Goonstation (Open Source)"	-> "CoolStation"
 		"Goonstation"                   -> "Goon 2009 Public SVN" [color = red]
 		"Goonstation"                   -> "Goon 2016 Release" [color = red]
 		"Goonstation"                   -> "Goonstation (Open Source)" [color = red]
@@ -190,7 +191,6 @@ digraph G {
 		"Goon 2009 Public SVN"          -> "Vagabond Station 13"
 		"Goon 2016 Release"             -> "Goon 2020 Release" [color = red]
 		"Goon 2016 Release"             -> "T/Goonstation"
-		"Goonstation (Open Source)"	-> "CoolStation"
 		"Green (/vg/)"                  -> "Green (Orange)" [color = red]
 		"Green (Orange)"                -> "Sosaki"
 		"Hestia (Old)"                  -> "Vestia"
