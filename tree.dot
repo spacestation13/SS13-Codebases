@@ -85,6 +85,7 @@ digraph G {
 		"/tg/Station (AGPL)"            -> "Apollo Station"
 		"/tg/Station (AGPL)"            -> "BeeStation"
 		"/tg/Station (AGPL)"            -> "Citadel Main"
+		"/tg/Station (AGPL)"            -> "Daedalus Dock"
 		"/tg/Station (AGPL)"            -> "Fallout 13"
 		"/tg/Station (AGPL)"            -> "FTL13"
 		"/tg/Station (AGPL)"            -> "HippieStation"
@@ -128,6 +129,7 @@ digraph G {
 		"BayStation (AGPL)"             -> "Apollo Station"
 		"BayStation (AGPL)"             -> "Animus (AGPL)"
 		"BayStation (AGPL)"             -> "CEV Eris"
+		"BayStation (AGPL)"             -> "Daedalus Dock"
 		"BayStation (AGPL)"             -> "Dead Space 13"
 		"BayStation (AGPL)"             -> "Europa Station"
 		"BayStation (AGPL)"             -> "Escalation 1984"
@@ -173,6 +175,8 @@ digraph G {
 		"Skyrat Main"					-> "Nebula Station 13"
 		"Skyrat Main"					-> "Fluffy Frontier"
 		"Colonial Marines"              -> "DM;CA"
+		"Daedalus Dock"                 -> "Dead Space 13 2.0"
+		"Dead Space 13"                 -> "Dead Space 13 2.0" [color = red]
 		"DM;CA"                         -> "TerraGov Marine Corps (TGMC)" [color = red]
 		"Euphoria"                      -> "Space Station V" [color = red]
 		"Eclipse Station"               -> "Sygyzy Station"
@@ -183,6 +187,7 @@ digraph G {
 		"Fallout 13 (Old)"              -> "WASTELANDS: Lost Day"
 		"Goonstation (Open Source)"     -> "BeeStation Clover"
 		"Goonstation (Open Source)"     -> "CoolStation"
+		"Goonstation (Open Source)"     -> "Daedalus Dock"
 		"Goonstation"                   -> "Goon 2009 Public SVN" [color = red]
 		"Goonstation"                   -> "Goon 2016 Release" [color = red]
 		"Goonstation"                   -> "Goonstation (Open Source)" [color = red]
