@@ -178,6 +178,7 @@ digraph G {
 		"Colonial Marines"              -> "DM;CA"
 		"Daedalus Dock"                 -> "Dead Space 13 2.0"
 		"Dead Space 13"                 -> "Dead Space 13 2.0" [color = red]
+		"Deep Space 13"                 -> "NSV13" [color = red]
 		"DM;CA"                         -> "TerraGov Marine Corps (TGMC)" [color = red]
 		"Euphoria"                      -> "Space Station V" [color = red]
 		"Eclipse Station"               -> "Sygyzy Station"
