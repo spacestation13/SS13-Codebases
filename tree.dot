@@ -123,6 +123,7 @@ digraph G {
 		"Animus (GPL)"                  -> "Old Blue Bay"
 		"Animus (GPL)"                  -> "Yellow (Old)"
 		"Aurora (Old)"                  -> "Aurora Station" [color = red]
+		"Austation"                     -> "Perpetua Station"
 		"Ava's Battlegrounds (IS2)"     -> "No Mans's Land"
 		"Ava's Battlegrounds (IS2)"     -> "Ava's Battlegrounds (Prishtina)" [color = red]
 		"BayStation (AGPL)"             -> "Aurora Station"
@@ -136,10 +137,10 @@ digraph G {
 		"BayStation (AGPL)"             -> "Halo: Space Station Evolved"
 		"BayStation (AGPL)"             -> "Hestia (Old)"
 		"BayStation (AGPL)"             -> "Interbay"
-		"BayStation (AGPL)"             -> "Nebula"
 		"BayStation (AGPL)"             -> "New Eden"
 		"BayStation (AGPL)"             -> "Persistence (New)"
 		"BayStation (AGPL)"             -> "Polaris"
+		"BayStation (AGPL)"             -> "Scavstation"
 		"BayStation (AGPL)"             -> "SCP-13"
 		"BayStation (AGPL)"             -> "Tegustation"
 		"BayStation (AGPL)"             -> "Urist McStation"
@@ -177,6 +178,7 @@ digraph G {
 		"Colonial Marines"              -> "DM;CA"
 		"Daedalus Dock"                 -> "Dead Space 13 2.0"
 		"Dead Space 13"                 -> "Dead Space 13 2.0" [color = red]
+		"Deep Space 13"                 -> "NSV13" [color = red]
 		"DM;CA"                         -> "TerraGov Marine Corps (TGMC)" [color = red]
 		"Euphoria"                      -> "Space Station V" [color = red]
 		"Eclipse Station"               -> "Sygyzy Station"
@@ -185,6 +187,7 @@ digraph G {
 		"Fallout 13"                    -> "Desert Rose"
 		"Fallout 13 (Old)"              -> "Fallout 13" [color = red]
 		"Fallout 13 (Old)"              -> "WASTELANDS: Lost Day"
+		"Fulpstation"                   -> "Perpetua Station (Old)"
 		"Goonstation (Open Source)"     -> "BeeStation Clover"
 		"Goonstation (Open Source)"     -> "CoolStation"
 		"Goonstation (Open Source)"     -> "Daedalus Dock"
@@ -216,6 +219,7 @@ digraph G {
 		"Sygyzy Station"                -> "Occulus"
 		"Orange SS13"                   -> "Green (Orange)"
 		"Paradise"                      -> "Persistence SS13 (Old)"
+		"Perpetua Station (Old)"        -> "Perpetua Station" [color = red]
 		"Polaris"                       -> "V.O.R.E. Station"
 		"Polaris"                       -> "World Server"
 		"Prishtina"                     -> "Ava's Battlegrounds (Prishtina)"
@@ -223,6 +227,7 @@ digraph G {
 		"Revision 4407 (r4407)"         -> "BayStation (Luna)"
 		"Revision 4407 (r4407)"         -> "D2K5"
 		"Revision 4407 (r4407)"         -> "Mars Station 42"
+		"Scavstation"                   -> "Nebula"
 		"Soujurn Station"               -> "Navarro"
 		"Space Station V"               -> "November" [color = red]
 		"SS13 (Pre Open)"               -> "Goonstation" [label = "Gibbed's Decompilation"]
