@@ -235,6 +235,8 @@ digraph G {
 		"Stalker Project"               -> "Ashen Sky"
 		"Star Trek 13"                  -> "Deep Space 13" [color = red]
 		"Tegustation (Old)"             -> "Tegustation" [color = red]
+		"Tegustation (Old)"             -> "Bungalow"
+		"Bungalow"             			-> "Quasar-13" [color = red]
 		"Unbound Travels"               -> "Aphelion Project"
 		"Urist McStation"               -> "Haven-13"
 		"V.O.R.E. Station"              -> "AEIOU"
