@@ -62,6 +62,8 @@ digraph G {
 			"Neekothing"
 			"Space Obituary"
 			"Space Station 14"
+			"Space Station 14" -> "Corvax"
+			"Space Station 14" -> "Nyanotrasen"
 			"UnityStation"
 			"SS3D"
 			"SS3D" -> "RE:SS3D"
@@ -69,7 +71,7 @@ digraph G {
 		}
 
 		// Attributes
-		label    = "SS13 Codebases Circa Mid 2021"
+		label    = "SS13 Codebases"
 		labelloc = "top"
 
 		// Root codebases
@@ -161,6 +163,9 @@ digraph G {
 		"BayStation (Luna)"             -> "Euphoria"
 		"BeeStation"                    -> "Austation"
 		"BeeStation"                    -> "NSV13"
+		"BeeStation"                    -> "MonkeStation"
+		"BeeStation"                    -> "SinguloStation"
+		"BeeStation"                    -> "RoyaleStation"
 		"BestRP"                        -> "Unbound Travels"
 		"Blue Admiralty Torch"          -> "Iron Space Torch"
 		"Black Tyranny"                 -> "ME Station"
