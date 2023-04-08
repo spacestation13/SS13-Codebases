@@ -54,7 +54,7 @@ digraph G {
 				minlen   = 1
 			]
 			edge [
-				constraint = false
+				constraint = true
 			]
 
 			// Non-SS13 Codebases
