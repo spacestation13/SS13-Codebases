@@ -181,6 +181,7 @@ digraph G {
 		"Skyrat Main"					-> "Nebula Station 13"
 		"Skyrat Main"					-> "Fluffy Frontier"
 		"Colonial Marines"              -> "DM;CA"
+		"Colonial Marines"              -> "Colonial Marines Indefinity"
 		"Daedalus Dock"                 -> "Dead Space 13 2.0"
 		"Dead Space 13"                 -> "Dead Space 13 2.0" [color = red]
 		"Deep Space 13"                 -> "NSV13" [color = red]
