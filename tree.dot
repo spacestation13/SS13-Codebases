@@ -132,7 +132,6 @@ digraph G {
 		"BayStation (AGPL)"             -> "Apollo Station"
 		"BayStation (AGPL)"             -> "Animus (AGPL)"
 		"BayStation (AGPL)"             -> "CEV Eris"
-		"BayStation (AGPL)"             -> "Daedalus Dock"
 		"BayStation (AGPL)"             -> "Dead Space 13"
 		"BayStation (AGPL)"             -> "Europa Station"
 		"BayStation (AGPL)"             -> "Escalation 1984"
@@ -195,7 +194,6 @@ digraph G {
 		"Fulpstation"                   -> "Perpetua Station (Old)"
 		"Goonstation (Open Source)"     -> "BeeStation Clover"
 		"Goonstation (Open Source)"     -> "CoolStation"
-		"Goonstation (Open Source)"     -> "Daedalus Dock"
 		"Goonstation"                   -> "Goon 2009 Public SVN" [color = red]
 		"Goonstation"                   -> "Goon 2016 Release" [color = red]
 		"Goonstation"                   -> "Goonstation (Open Source)" [color = red]
