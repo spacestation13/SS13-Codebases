@@ -100,6 +100,7 @@ digraph G {
 		"/tg/Station (AGPL)"            -> "WaspStation"
 		"/tg/Station (AGPL)"            -> "YogStation"
 		"/tg/Station (AGPL)"            -> "Fulpstation"
+		"/tg/Station (AGPL)"            -> "Effigy"
 		"/tg/Station (GPLv3)"           -> "FreeTG Station"
 		"/tg/Station (GPLv3)"           -> "/tg/Station (AGPL)" [color = red]
 		"/tg/Station (GPLv3)"           -> "Archangel"
